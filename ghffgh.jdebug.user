@@ -1,0 +1,62 @@
+
+
+
+
+Breakpoint=C:/Users/16664/Desktop/now/TMC2209 - 17/TMC2209/Core/Src/main.c:116:9, State=BP_STATE_DISABLED
+Breakpoint=C:/Users/16664/Desktop/now/TMC2209 - 17/TMC2209/Core/Src/main.c:261, State=BP_STATE_ON
+GraphedExpression="nxc", DisplayFormat=DISPLAY_FORMAT_DEC, Color=#e56a6f, Show=0
+GraphedExpression="nyc", DisplayFormat=DISPLAY_FORMAT_DEC, Color=#35792b, Show=0
+GraphedExpression="exc", Color=#769dda, Show=0
+GraphedExpression="eyc", Color=#b14f0d, Show=0
+GraphedExpression="excir", Color=#b3c38e, Show=0
+GraphedExpression="eycir", Color=#ab7b05, Show=0
+GraphedExpression="nspeedx", Color=#7fd3b7, Show=0
+GraphedExpression="nspeedy", Color=#50328f, Show=0
+GraphedExpression="nxc1", Color=#c587a5, Show=0
+GraphedExpression="nyc1", DisplayFormat=DISPLAY_FORMAT_DEC, Color=#999401, Show=0
+GraphedExpression="wit_data.yaw", Color=#aa1d24, Show=0
+GraphedExpression="wit_data.gyro[2]", Color=#86d27e, Show=0
+GraphedExpression="pidx.de", Color=#2a5191, Show=0
+GraphedExpression="pxerr", Color=#f49758, Show=0
+GraphedExpression="therr", Color=#5f6c3a, Show=0
+GraphedExpression="wit_data.accel[0]", Color=#ffcc53, Show=0
+GraphedExpression="wit_data.accel[1]", Color=#2e7d64, Show=0
+GraphedExpression="wit_data.accel[2]", Color=#957bd2, Show=0
+GraphedExpression="facc", Color=#82375f
+OpenDocument="wit.c", FilePath="C:/Users/16664/Desktop/now/TMC2209/User/wit.c", Line=27
+OpenDocument="main.c", FilePath="C:/Users/16664/Desktop/now/TMC2209/Core/Src/main.c", Line=1044
+OpenDocument="stm32h7xx_hal.c", FilePath="C:/Users/16664/Desktop/now/TMC2209/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c", Line=327
+OpenDocument="startup_stm32h750xx.s", FilePath="C:/Users/16664/Desktop/now/TMC2209/startup_stm32h750xx.s", Line=47
+OpenDocument="stm32h7xx_it.c", FilePath="C:/Users/16664/Desktop/now/TMC2209/Core/Src/stm32h7xx_it.c", Line=78
+OpenToolbar="Debug", Floating=0, x=0, y=0
+OpenWindow="Source Files", DockArea=LEFT, x=0, y=0, w=362, h=1285, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Global Data", DockArea=RIGHT, x=0, y=0, w=1439, h=192, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Local Data", DockArea=RIGHT, x=0, y=1, w=1439, h=723, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Watched Data 1", DockArea=RIGHT, x=0, y=2, w=1439, h=368, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+SmartViewPlugin="", Page="", Toolbar="Hidden", Window="SmartView 1"
+TableHeader="Global Data", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Location";"Size";"Type";"Scope"], ColWidths=[100;100;102;100;100;916]
+TableHeader="Local Data", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Location";"Size";"Type";"Scope"], ColWidths=[100;100;134;100;100;905]
+TableHeader="Source Files", SortCol="File", SortOrder="ASCENDING", VisibleCols=["File";"Status";"Size";"#Insts";"Path"], ColWidths=[231;100;100;100;770]
+TableHeader="Power Sampling", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time";"Ch 0"], ColWidths=[100;100;100]
+TableHeader="Watched Data 1", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Expression";"Value";"Location";"Refresh"], ColWidths=[100;412;100;806]
+TableHeader="RegisterSelectionDialog", SortCol="None", SortOrder="ASCENDING", VisibleCols=[], ColWidths=[]
+TableHeader="TargetExceptionDialog", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Address";"Description"], ColWidths=[200;100;100;372]
+WatchedExpression="pidx", Window=Watched Data 1
+WatchedExpression="pidy", Window=Watched Data 1
+WatchedExpression="kfpVarx", Window=Watched Data 1
+WatchedExpression="exc", Window=Watched Data 1
+WatchedExpression="eyc", Window=Watched Data 1
+WatchedExpression="kfpVary", Window=Watched Data 1
+WatchedExpression="r1", Window=Watched Data 1
+WatchedExpression="xan", Window=Watched Data 1
+WatchedExpression="yan", Window=Watched Data 1
+WatchedExpression="xspeed_feed", Window=Watched Data 1
+WatchedExpression="yspeed_feed", Window=Watched Data 1
+WatchedExpression="IX.Q_data", Window=Watched Data 1
+WatchedExpression="IX.R_data[0]", Window=Watched Data 1
+WatchedExpression="pidAx", Window=Watched Data 1
+WatchedExpression="compensate", Window=Watched Data 1
+WatchedExpression="maxcompensate", Window=Watched Data 1
+WatchedExpression="mincompensate", Window=Watched Data 1
+WatchedExpression="angle_pul", Window=Watched Data 1
+WatchedExpression="acc_pul", Window=Watched Data 1

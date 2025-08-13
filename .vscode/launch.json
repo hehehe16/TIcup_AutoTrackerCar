@@ -1,0 +1,44 @@
+//此文件为vscode调试配置文件，用于cortexdebug插件配合openocd在vscode软件上完成烧录调试操作
+
+
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+
+        
+        {
+            "name": "Cortex Debug",
+            "cwd": "${workspaceFolder}",
+            "executable": "./build/Debug/TMC2209.elf",  //调试目标文件路径
+            "request": "launch",
+            "type": "cortex-debug",
+            "runToEntryPoint": "main",
+            "servertype": "openocd",
+            "device": "STM32H750VBT6",                 //目标单片机型号
+            "configFiles": [
+                "interface/cmsis-dap.cfg",             //调试器型号
+                "target/stm32h7x.cfg"                   //目标单片机cfg文件
+            ],
+            "rttConfig": {                              //rtt调试配置
+                "enabled": true,
+                "address": "auto",
+                "clearSearch": false,
+                "polling_interval": 10,
+                "decoders": [
+                    {
+                        "label": "",
+                        "port": 0,
+                        "type": "console"
+                    }
+                    
+                ]
+                
+            }
+            
+        }
+    ]
+}
