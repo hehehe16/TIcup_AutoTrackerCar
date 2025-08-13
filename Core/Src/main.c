@@ -33,7 +33,7 @@
 #include "kalman_twice.h"
 #include "stdarg.h"
 #include "OLED.h"
-#include "wit_c_sdk.h"
+
 #include "wit.h"
 /* USER CODE END Includes */
 
@@ -1157,7 +1157,7 @@ pid_handler Ppidx = //位置环(->角度环)xpid参数
 
 
 static uint8_t Pfirstrun=1;
-void position_pid_run()
+void position_pid_run()  
 {
   if(Pfirstrun)            //判断是否要初始化pid结构体
   {

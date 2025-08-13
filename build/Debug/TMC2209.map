@@ -58,8 +58,6 @@ E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-no
                               CMakeFiles/TMC2209.dir/Core/Src/main.c.obj (vsprintf)
 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-errno.o)
                               CMakeFiles/TMC2209.dir/Core/Src/sysmem.c.obj (__errno)
-E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-memcpy-stub.o)
-                              CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj (memcpy)
 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-nano-svfprintf.o)
                               E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-vsprintf.o) (_svfprintf_r)
 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-nano-vfprintf_i.o)
@@ -68,6 +66,8 @@ E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-no
                               E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-nano-svfprintf.o) (memmove)
 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-memchr.o)
                               E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-nano-svfprintf.o) (memchr)
+E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-memcpy-stub.o)
+                              E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-nano-svfprintf.o) (memcpy)
 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-reallocr.o)
                               E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-nano-svfprintf.o) (_realloc_r)
 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-msizer.o)
@@ -1181,159 +1181,6 @@ Discarded input sections
  .debug_macro   0x00000000      0x69a CMakeFiles/TMC2209.dir/User/OLED.c.obj
  .debug_macro   0x00000000       0xa6 CMakeFiles/TMC2209.dir/User/OLED.c.obj
  .debug_macro   0x00000000      0x5ac CMakeFiles/TMC2209.dir/User/OLED.c.obj
- .group         0x00000000        0xc CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .group         0x00000000        0xc CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .group         0x00000000        0xc CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .group         0x00000000        0xc CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .group         0x00000000        0xc CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .group         0x00000000        0xc CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .group         0x00000000        0xc CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .group         0x00000000        0xc CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .group         0x00000000        0xc CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .group         0x00000000        0xc CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .group         0x00000000        0xc CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .group         0x00000000        0xc CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .group         0x00000000        0xc CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .group         0x00000000        0xc CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .group         0x00000000        0xc CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .group         0x00000000        0xc CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .group         0x00000000        0xc CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .group         0x00000000        0xc CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .group         0x00000000        0xc CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .group         0x00000000        0xc CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .group         0x00000000        0xc CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .group         0x00000000        0xc CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .group         0x00000000        0xc CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .group         0x00000000        0xc CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .group         0x00000000        0xc CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .group         0x00000000        0xc CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .group         0x00000000        0xc CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .group         0x00000000        0xc CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .group         0x00000000        0xc CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .text          0x00000000        0x0 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .data          0x00000000        0x0 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .bss           0x00000000        0x0 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .bss.p_WitSerialWriteFunc
-                0x00000000        0x4 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .bss.p_WitI2cWriteFunc
-                0x00000000        0x4 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .bss.p_WitI2cReadFunc
-                0x00000000        0x4 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .bss.p_WitCanWriteFunc
-                0x00000000        0x4 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .bss.p_WitRegUpdateCbFunc
-                0x00000000        0x4 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .bss.p_WitDelaymsFunc
-                0x00000000        0x4 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .data.s_ucAddr
-                0x00000000        0x1 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .bss.s_ucWitDataBuff
-                0x00000000      0x100 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .bss.s_uiWitDataCnt
-                0x00000000        0x4 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .bss.s_uiProtoclo
-                0x00000000        0x4 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .bss.s_uiReadRegIndex
-                0x00000000        0x4 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .bss.sReg      0x00000000      0x120 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .bss.ucRegIndex
-                0x00000000        0x1 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .bss.usRegDataBuff
-                0x00000000        0x8 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .bss.uiRegDataLen
-                0x00000000        0x4 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .rodata.__auchCRCHi
-                0x00000000      0x100 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .rodata.__auchCRCLo
-                0x00000000      0x100 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .text.__CRC16  0x00000000       0x78 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .text.__CaliSum
-                0x00000000       0x3e CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .text.WitSerialWriteRegister
-                0x00000000       0x2c CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .text.CopeWitData
-                0x00000000      0x154 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .text.WitSerialDataIn
-                0x00000000      0x26c CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .text.WitI2cFuncRegister
-                0x00000000       0x44 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .text.WitCanWriteRegister
-                0x00000000       0x2c CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .text.WitCanDataIn
-                0x00000000       0xbc CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .text.WitRegisterCallBack
-                0x00000000       0x2c CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .text.WitWriteReg
-                0x00000000      0x174 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .text.WitReadReg
-                0x00000000      0x214 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .text.WitInit  0x00000000       0x44 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .text.WitDeInit
-                0x00000000       0x60 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .text.WitDelayMsRegister
-                0x00000000       0x2c CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .text.CheckRange
-                0x00000000       0x3c CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .text.WitStartAccCali
-                0x00000000       0x60 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .text.WitStopAccCali
-                0x00000000       0x5c CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .text.WitStartMagCali
-                0x00000000       0x60 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .text.WitStopMagCali
-                0x00000000       0x60 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .text.WitSetUartBaud
-                0x00000000       0x84 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .text.WitSetCanBaud
-                0x00000000       0x84 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .text.WitSetBandwidth
-                0x00000000       0x84 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .text.WitSetOutputRate
-                0x00000000       0x84 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .text.WitSetContent
-                0x00000000       0x88 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .debug_info    0x00000000      0x8bc CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .debug_abbrev  0x00000000      0x24e CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .debug_aranges
-                0x00000000       0xd8 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .debug_rnglists
-                0x00000000       0xa7 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .debug_macro   0x00000000      0x180 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .debug_macro   0x00000000      0xaf6 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .debug_macro   0x00000000       0x22 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .debug_macro   0x00000000       0x8e CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .debug_macro   0x00000000       0x51 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .debug_macro   0x00000000      0x103 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .debug_macro   0x00000000       0x6a CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .debug_macro   0x00000000      0x1df CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .debug_macro   0x00000000       0x7b CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .debug_macro   0x00000000       0x29 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .debug_macro   0x00000000       0x3c CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .debug_macro   0x00000000       0x34 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .debug_macro   0x00000000       0x16 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .debug_macro   0x00000000       0x9e CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .debug_macro   0x00000000      0x370 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .debug_macro   0x00000000      0x112 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .debug_macro   0x00000000       0x10 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .debug_macro   0x00000000       0x16 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .debug_macro   0x00000000       0x4a CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .debug_macro   0x00000000       0x34 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .debug_macro   0x00000000       0x10 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .debug_macro   0x00000000       0x58 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .debug_macro   0x00000000      0x1e5 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .debug_macro   0x00000000       0x16 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .debug_macro   0x00000000       0x16 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .debug_macro   0x00000000      0x170 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .debug_macro   0x00000000       0x16 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .debug_macro   0x00000000       0x3c CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .debug_macro   0x00000000      0x5eb CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .debug_macro   0x00000000       0x4c CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .debug_line    0x00000000      0xc97 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .debug_str     0x00000000     0x85e0 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .comment       0x00000000       0x46 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .debug_frame   0x00000000      0x37c CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
- .ARM.attributes
-                0x00000000       0x32 CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
  .group         0x00000000        0xc CMakeFiles/TMC2209.dir/User/wit.c.obj
  .group         0x00000000        0xc CMakeFiles/TMC2209.dir/User/wit.c.obj
  .group         0x00000000        0xc CMakeFiles/TMC2209.dir/User/wit.c.obj
@@ -1461,8 +1308,6 @@ Discarded input sections
  .debug_macro   0x00000000      0x69a CMakeFiles/TMC2209.dir/User/wit.c.obj
  .debug_macro   0x00000000       0xa6 CMakeFiles/TMC2209.dir/User/wit.c.obj
  .debug_macro   0x00000000      0x5ac CMakeFiles/TMC2209.dir/User/wit.c.obj
- .group         0x00000000        0xc CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
- .group         0x00000000        0xc CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
  .group         0x00000000        0xc CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
  .group         0x00000000        0xc CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
  .group         0x00000000        0xc CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
@@ -1665,13 +1510,10 @@ Discarded input sections
  .debug_macro   0x00000000       0x10 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
  .debug_macro   0x00000000       0x16 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
  .debug_macro   0x00000000      0x170 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
- .debug_macro   0x00000000       0x16 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
  .debug_macro   0x00000000      0x201 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
  .debug_macro   0x00000000       0xc8 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
  .debug_macro   0x00000000       0x2e CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
  .debug_macro   0x00000000       0x46 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
- .debug_macro   0x00000000      0x5eb CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
- .debug_macro   0x00000000       0x4c CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
  .group         0x00000000        0xc CMakeFiles/TMC2209.dir/Core/Src/gpio.c.obj
  .group         0x00000000        0xc CMakeFiles/TMC2209.dir/Core/Src/gpio.c.obj
  .group         0x00000000        0xc CMakeFiles/TMC2209.dir/Core/Src/gpio.c.obj
@@ -5867,13 +5709,6 @@ Discarded input sections
  .debug_frame   0x00000000       0x20 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-errno.o)
  .ARM.attributes
                 0x00000000       0x32 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-errno.o)
- .text          0x00000000        0x0 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-memcpy-stub.o)
- .data          0x00000000        0x0 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-memcpy-stub.o)
- .bss           0x00000000        0x0 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-memcpy-stub.o)
- .text.memcpy   0x00000000       0x1c E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-memcpy-stub.o)
- .debug_frame   0x00000000       0x28 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-memcpy-stub.o)
- .ARM.attributes
-                0x00000000       0x32 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-memcpy-stub.o)
  .text          0x00000000        0x0 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-nano-svfprintf.o)
  .data          0x00000000        0x0 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-nano-svfprintf.o)
  .bss           0x00000000        0x0 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-nano-svfprintf.o)
@@ -5917,6 +5752,13 @@ Discarded input sections
  .eh_frame      0x00000000       0x50 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-memchr.o)
  .ARM.attributes
                 0x00000000       0x1c E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-memchr.o)
+ .text          0x00000000        0x0 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-memcpy-stub.o)
+ .data          0x00000000        0x0 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-memcpy-stub.o)
+ .text.memcpy   0x00000000       0x1c E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-memcpy-stub.o)
+ .debug_frame   0x00000000       0x28 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-memcpy-stub.o)
+ .ARM.attributes
+                0x00000000       0x32 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-memcpy-stub.o)
  .text          0x00000000        0x0 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-reallocr.o)
  .data          0x00000000        0x0 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-reallocr.o)
  .bss           0x00000000        0x0 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-reallocr.o)
@@ -6048,7 +5890,6 @@ LOAD CMakeFiles/TMC2209.dir/User/Kalman.c.obj
 LOAD CMakeFiles/TMC2209.dir/User/kalman_twice.c.obj
 LOAD CMakeFiles/TMC2209.dir/User/Zhangdatou.c.obj
 LOAD CMakeFiles/TMC2209.dir/User/OLED.c.obj
-LOAD CMakeFiles/TMC2209.dir/User/wit_c_sdk.c.obj
 LOAD CMakeFiles/TMC2209.dir/User/wit.c.obj
 LOAD CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
 LOAD CMakeFiles/TMC2209.dir/Core/Src/gpio.c.obj
@@ -7309,86 +7150,87 @@ LOAD E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/a
  .debug_rnglists
                 0x00000d18       0x19 CMakeFiles/TMC2209.dir/startup_stm32h750xx.s.obj
 
-.debug_macro    0x00000000     0x3aa0
+.debug_macro    0x00000000     0x3a9e
  .debug_macro   0x00000000      0x2b9 CMakeFiles/TMC2209.dir/User/Zhangdatou.c.obj
  .debug_macro   0x000002b9      0x2b1 CMakeFiles/TMC2209.dir/User/OLED.c.obj
  .debug_macro   0x0000056a       0x46 CMakeFiles/TMC2209.dir/User/OLED.c.obj
  .debug_macro   0x000005b0       0x10 CMakeFiles/TMC2209.dir/User/OLED.c.obj
  .debug_macro   0x000005c0      0x2b3 CMakeFiles/TMC2209.dir/User/wit.c.obj
- .debug_macro   0x00000873      0x3e2 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
- .debug_macro   0x00000c55       0x16 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
- .debug_macro   0x00000c6b       0x16 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
- .debug_macro   0x00000c81       0x29 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
- .debug_macro   0x00000caa       0x22 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
- .debug_macro   0x00000ccc       0x1c CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
- .debug_macro   0x00000ce8       0x1c CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
- .debug_macro   0x00000d04       0x4c CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
- .debug_macro   0x00000d50      0x29f CMakeFiles/TMC2209.dir/Core/Src/gpio.c.obj
- .debug_macro   0x00000fef      0x29f CMakeFiles/TMC2209.dir/Core/Src/i2c.c.obj
- .debug_macro   0x0000128e      0x29f CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
- .debug_macro   0x0000152d      0x29f CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
- .debug_macro   0x000017cc      0x295 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_hal_msp.c.obj
- .debug_macro   0x00001a61      0x285 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
- .debug_macro   0x00001ce6      0x2a9 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
- .debug_macro   0x00001f8f      0x2a3 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
- .debug_macro   0x00002232      0x28c CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
- .debug_macro   0x000024be      0x2d9 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
- .debug_macro   0x00002797      0x2be CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
- .debug_macro   0x00002a55      0x2af CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
- .debug_macro   0x00002d04      0x351 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
- .debug_macro   0x00003055      0x285 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
- .debug_macro   0x000032da      0x2b0 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
- .debug_macro   0x0000358a      0x291 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
- .debug_macro   0x0000381b      0x285 CMakeFiles/TMC2209.dir/Core/Src/system_stm32h7xx.c.obj
+ .debug_macro   0x00000873      0x3ca CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000c3d       0x16 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000c53       0x16 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000c69       0x29 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000c92       0x22 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000cb4       0x1c CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000cd0       0x1c CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000cec       0x16 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000d02       0x4c CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000d4e      0x29f CMakeFiles/TMC2209.dir/Core/Src/gpio.c.obj
+ .debug_macro   0x00000fed      0x29f CMakeFiles/TMC2209.dir/Core/Src/i2c.c.obj
+ .debug_macro   0x0000128c      0x29f CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
+ .debug_macro   0x0000152b      0x29f CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
+ .debug_macro   0x000017ca      0x295 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+ .debug_macro   0x00001a5f      0x285 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .debug_macro   0x00001ce4      0x2a9 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+ .debug_macro   0x00001f8d      0x2a3 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .debug_macro   0x00002230      0x28c CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+ .debug_macro   0x000024bc      0x2d9 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+ .debug_macro   0x00002795      0x2be CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .debug_macro   0x00002a53      0x2af CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .debug_macro   0x00002d02      0x351 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .debug_macro   0x00003053      0x285 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
+ .debug_macro   0x000032d8      0x2b0 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+ .debug_macro   0x00003588      0x291 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
+ .debug_macro   0x00003819      0x285 CMakeFiles/TMC2209.dir/Core/Src/system_stm32h7xx.c.obj
 
-.debug_line     0x00000000    0x17742
+.debug_line     0x00000000    0x1772a
  .debug_line    0x00000000      0x8c4 CMakeFiles/TMC2209.dir/User/Zhangdatou.c.obj
  .debug_line    0x000008c4      0xb07 CMakeFiles/TMC2209.dir/User/OLED.c.obj
  .debug_line    0x000013cb      0x897 CMakeFiles/TMC2209.dir/User/wit.c.obj
- .debug_line    0x00001c62     0x1534 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
- .debug_line    0x00003196      0x758 CMakeFiles/TMC2209.dir/Core/Src/gpio.c.obj
- .debug_line    0x000038ee      0x79a CMakeFiles/TMC2209.dir/Core/Src/i2c.c.obj
- .debug_line    0x00004088      0xb3b CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
- .debug_line    0x00004bc3      0x88b CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
- .debug_line    0x0000544e      0x6f7 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_hal_msp.c.obj
- .debug_line    0x00005b45      0xcba CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
- .debug_line    0x000067ff     0x1377 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
- .debug_line    0x00007b76     0x1c83 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
- .debug_line    0x000097f9      0xb59 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
- .debug_line    0x0000a352     0x2651 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
- .debug_line    0x0000c9a3      0xe54 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
- .debug_line    0x0000d7f7      0xcd0 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
- .debug_line    0x0000e4c7     0x3a47 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
- .debug_line    0x00011f0e      0x85e CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
- .debug_line    0x0001276c     0x39f1 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
- .debug_line    0x0001615d      0xc73 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
- .debug_line    0x00016dd0      0x8f7 CMakeFiles/TMC2209.dir/Core/Src/system_stm32h7xx.c.obj
- .debug_line    0x000176c7       0x7b CMakeFiles/TMC2209.dir/startup_stm32h750xx.s.obj
+ .debug_line    0x00001c62     0x151c CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+ .debug_line    0x0000317e      0x758 CMakeFiles/TMC2209.dir/Core/Src/gpio.c.obj
+ .debug_line    0x000038d6      0x79a CMakeFiles/TMC2209.dir/Core/Src/i2c.c.obj
+ .debug_line    0x00004070      0xb3b CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
+ .debug_line    0x00004bab      0x88b CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
+ .debug_line    0x00005436      0x6f7 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+ .debug_line    0x00005b2d      0xcba CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .debug_line    0x000067e7     0x1377 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+ .debug_line    0x00007b5e     0x1c83 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .debug_line    0x000097e1      0xb59 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+ .debug_line    0x0000a33a     0x2651 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+ .debug_line    0x0000c98b      0xe54 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .debug_line    0x0000d7df      0xcd0 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .debug_line    0x0000e4af     0x3a47 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .debug_line    0x00011ef6      0x85e CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
+ .debug_line    0x00012754     0x39f1 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+ .debug_line    0x00016145      0xc73 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
+ .debug_line    0x00016db8      0x8f7 CMakeFiles/TMC2209.dir/Core/Src/system_stm32h7xx.c.obj
+ .debug_line    0x000176af       0x7b CMakeFiles/TMC2209.dir/startup_stm32h750xx.s.obj
 
-.debug_str      0x00000000   0x15cdbd
- .debug_str     0x00000000   0x15cdbd CMakeFiles/TMC2209.dir/User/Zhangdatou.c.obj
+.debug_str      0x00000000   0x15c02b
+ .debug_str     0x00000000   0x15c02b CMakeFiles/TMC2209.dir/User/Zhangdatou.c.obj
                              0x1549b1 (size before relaxing)
- .debug_str     0x0015cdbd   0x1548c3 CMakeFiles/TMC2209.dir/User/OLED.c.obj
- .debug_str     0x0015cdbd   0x15484c CMakeFiles/TMC2209.dir/User/wit.c.obj
- .debug_str     0x0015cdbd   0x157ab6 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
- .debug_str     0x0015cdbd   0x154a96 CMakeFiles/TMC2209.dir/Core/Src/gpio.c.obj
- .debug_str     0x0015cdbd   0x154bfd CMakeFiles/TMC2209.dir/Core/Src/i2c.c.obj
- .debug_str     0x0015cdbd   0x1555dc CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
- .debug_str     0x0015cdbd   0x154789 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
- .debug_str     0x0015cdbd   0x15416d CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_hal_msp.c.obj
- .debug_str     0x0015cdbd   0x154dba CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
- .debug_str     0x0015cdbd   0x1547f5 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
- .debug_str     0x0015cdbd   0x154cd6 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
- .debug_str     0x0015cdbd   0x154411 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
- .debug_str     0x0015cdbd   0x154b94 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
- .debug_str     0x0015cdbd   0x1548d2 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
- .debug_str     0x0015cdbd   0x15537f CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
- .debug_str     0x0015cdbd   0x1554b2 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
- .debug_str     0x0015cdbd   0x154856 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
- .debug_str     0x0015cdbd   0x1556a8 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
- .debug_str     0x0015cdbd   0x154a11 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
- .debug_str     0x0015cdbd   0x154499 CMakeFiles/TMC2209.dir/Core/Src/system_stm32h7xx.c.obj
- .debug_str     0x0015cdbd       0x9e CMakeFiles/TMC2209.dir/startup_stm32h750xx.s.obj
+ .debug_str     0x0015c02b   0x1548c3 CMakeFiles/TMC2209.dir/User/OLED.c.obj
+ .debug_str     0x0015c02b   0x15484c CMakeFiles/TMC2209.dir/User/wit.c.obj
+ .debug_str     0x0015c02b   0x156d24 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+ .debug_str     0x0015c02b   0x154a96 CMakeFiles/TMC2209.dir/Core/Src/gpio.c.obj
+ .debug_str     0x0015c02b   0x154bfd CMakeFiles/TMC2209.dir/Core/Src/i2c.c.obj
+ .debug_str     0x0015c02b   0x1555dc CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
+ .debug_str     0x0015c02b   0x154789 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
+ .debug_str     0x0015c02b   0x15416d CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+ .debug_str     0x0015c02b   0x154dba CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .debug_str     0x0015c02b   0x1547f5 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+ .debug_str     0x0015c02b   0x154cd6 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .debug_str     0x0015c02b   0x154411 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+ .debug_str     0x0015c02b   0x154b94 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+ .debug_str     0x0015c02b   0x1548d2 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .debug_str     0x0015c02b   0x15537f CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .debug_str     0x0015c02b   0x1554b2 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .debug_str     0x0015c02b   0x154856 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
+ .debug_str     0x0015c02b   0x1556a8 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+ .debug_str     0x0015c02b   0x154a11 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
+ .debug_str     0x0015c02b   0x154499 CMakeFiles/TMC2209.dir/Core/Src/system_stm32h7xx.c.obj
+ .debug_str     0x0015c02b       0x9e CMakeFiles/TMC2209.dir/startup_stm32h750xx.s.obj
 
 .comment        0x00000000       0x45
  .comment       0x00000000       0x45 CMakeFiles/TMC2209.dir/User/Zhangdatou.c.obj

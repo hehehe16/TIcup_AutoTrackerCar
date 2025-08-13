@@ -53,7 +53,7 @@ target_sources(${CMAKE_PROJECT_NAME} PRIVATE
     ${CMAKE_CURRENT_SOURCE_DIR}/User/Kalman_twice.c
     ${CMAKE_CURRENT_SOURCE_DIR}/User/Zhangdatou.c
      ${CMAKE_CURRENT_SOURCE_DIR}/User/OLED.c
-    ${CMAKE_CURRENT_SOURCE_DIR}/User/wit_c_sdk.c
+ 
 ${CMAKE_CURRENT_SOURCE_DIR}/User/wit.c
     # Add user sources here
 )

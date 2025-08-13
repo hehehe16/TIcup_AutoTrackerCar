@@ -154,8 +154,7 @@
 				31,
 				32,
 				33,
-				34,
-				35
+				34
 			]
 		},
 		{
@@ -218,7 +217,7 @@
 			"language" : "ASM",
 			"sourceIndexes" : 
 			[
-				36
+				35
 			]
 		}
 	],
@@ -290,15 +289,14 @@
 				31,
 				32,
 				33,
-				34,
-				35
+				34
 			]
 		},
 		{
 			"name" : "",
 			"sourceIndexes" : 
 			[
-				36
+				35
 			]
 		}
 	],
@@ -338,12 +336,6 @@
 			"backtrace" : 4,
 			"compileGroupIndex" : 0,
 			"path" : "User/OLED.c",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 4,
-			"compileGroupIndex" : 0,
-			"path" : "User/wit_c_sdk.c",
 			"sourceGroupIndex" : 0
 		},
 		{

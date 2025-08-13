@@ -36,7 +36,7 @@ void WitNormalDataProcess(uint8_t *data, uint16_t size);
 // UART接收完成中断回调
 void WIT_callback(UART_HandleTypeDef *huart)
 {
-	
+	huart = huart;
 
 	
 //	if(huart -> Instance == USART3)
@@ -116,6 +116,7 @@ static uint8_t first_yaw = 1;   // 首次读取标志
 // WIT普通模式数据处理函数
 void WitNormalDataProcess(uint8_t *data, uint16_t size)
 {
+    size = size;
     // 校验和验证 (前10字节累加和)
     uint8_t calc_sum = 0;
     for(int i = 0; i < 10; i++) {
