@@ -647,8 +647,8 @@ KFPTypeS_Struct kfpVarx =
 {
    10.00, //P估算协方差. 初始化值为 0.02
    0, //G卡尔曼增益. 初始化值为 0
-   0.01, //Q过程噪声协方差,Q增大，动态响应变快，收敛稳定性变坏. 初始化值为 0.001
-   0.5, //R测量噪声协方差,R增大，动态响应变慢，收敛稳定性变好. 初始化值为 1
+   0.6, //Q过程噪声协方差,Q增大，动态响应变快，收敛稳定性变坏. 初始化值为 0.001
+   0.2, //R测量噪声协方差,R增大，动态响应变慢，收敛稳定性变好. 初始化值为 1
    0 //卡尔曼滤波器输出. 初始化值为 0
 };
 
@@ -656,8 +656,8 @@ KFPTypeS_Struct kfpVary =
 {
    10.000, //P估算协方差. 初始化值为 0.02
    0, //G卡尔曼增益. 初始化值为 0
-   0.01, //Q过程噪声协方差,Q增大，动态响应变快，收敛稳定性变坏. 初始化值为 0.001
-   0.5, //R测量噪声协方差,R增大，动态响应变慢，收敛稳定性变好. 初始化值为 1
+   0.6, //Q过程噪声协方差,Q增大，动态响应变快，收敛稳定性变坏. 初始化值为 0.001
+   0.2, //R测量噪声协方差,R增大，动态响应变慢，收敛稳定性变好. 初始化值为 1
    0 //卡尔曼滤波器输出. 初始化值为 0
 };
 
@@ -688,15 +688,17 @@ void maixcam_RX_finish()  //maixcam数据包接收完成回调
 
   // exc = *(int*)&Maixcam_RX_fifo[8];
   // eyc = *(int*)&Maixcam_RX_fifo[12];
-  // nxc = KalmanFilter(&kfpVarx,nxc1);
-  // nyc = KalmanFilter(&kfpVary,nyc1);
+  nxc = KalmanFilter(&kfpVarx,nxc1);
+  nyc = KalmanFilter(&kfpVary,nyc1);
 
   // kalman_x_redata = kalman_calcu_x(nxc1);
   // kalman_y_redata = kalman_calcu_y(nyc1);
   // nxc = kalman_x_redata[0];
   // nyc = kalman_y_redata[0];
-  nxc = nxc1;
-  nyc = nyc1;
+
+
+  // nxc = nxc1;
+  // nyc = nyc1;
 
   // uint32_t ntime = getMicros();
   // float difftime = ntime-last_us_tick;
@@ -836,7 +838,7 @@ pid_handler pidx = //x位置环
 {
   .P = 40,
   .I = 40,
-  .D = 2,
+  .D = 4,
   .I2 = 0,
   .out_limit = {-10000,10000},
   .inte_limit = {-1000,1000},
@@ -992,7 +994,7 @@ void enconter_to_angle()  //编码器转换角度
 
   if(c ==3)
   {
-    if((enconter-ennerr)<400)
+    if((enconter-ennerr)<1000)
     {
       feedenn = (enconter-ennerr)*-1;
     }
