@@ -39,6 +39,156 @@
 
 /* Private typedef -----------------------------------------------------------*/
 /* USER CODE BEGIN PTD */
+extern int lookup_table[];
+
+#define CHEB_ORDER 6
+#define X_MIN 0.000000f
+#define X_MAX 6490.000000f
+static const float cheb_coef[CHEB_ORDER+1] = {
+    -836.2304769668f,
+    -997.8101985323f,
+    -13.4824721790f,
+    -21.8237562184f,
+    8.4930403253f,
+    -10.0704451518f,
+    6.1022329334f,
+};
+
+static inline float cheb_normalize(float x) {
+    return (2.0f * x - (X_MAX + X_MIN)) / (X_MAX - X_MIN);
+}
+
+float cheb_eval(float x) {
+    float xp = cheb_normalize(x);
+    float T0 = 1.0f;
+    float T1 = xp;
+    float y = cheb_coef[0] * T0 + cheb_coef[1] * T1;
+    for (int n = 2; n <= CHEB_ORDER; n++) {
+        float Tn = 2.0f * xp * T1 - T0;
+        y += cheb_coef[n] * Tn;
+        T0 = T1;
+        T1 = Tn;
+    }
+    return y-194.586731;
+}
+
+
+
+
+#define CHEB_ORDER2 6
+#define X_MIN2 0.000000f
+#define X_MAX2 6325.000000f
+static const float cheb_coef2[CHEB_ORDER2+1] = {
+    3055.9000644695f,
+    2946.5198651746f,
+    63.1994350443f,
+    -198.8765504428f,
+    -33.8485973053f,
+    -131.5738849236f,
+    -28.5150453190f,
+};
+
+static inline float cheb_normalize2(float x) {
+    return (2.0f * x - (X_MAX2 + X_MIN2)) / (X_MAX2 - X_MIN2);
+}
+
+float cheb_eval2(float x) {
+    float xp = cheb_normalize2(x);
+    float T0 = 1.0f;
+    float T1 = xp;
+    float y = cheb_coef2[0] * T0 + cheb_coef2[1] * T1;
+    for (int n = 2; n <= CHEB_ORDER2; n++) {
+        float Tn = 2.0f * xp * T1 - T0;
+        y += cheb_coef2[n] * Tn;
+        T0 = T1;
+        T1 = Tn;
+    }
+    return y-440.666595;
+}
+
+
+
+#include <math.h>
+
+// Scaler parameters
+float scaler_x_mean = 3162.5f;
+float scaler_x_scale = 1826.1588786302248f;
+float scaler_y_mean = 3037.9078406576036f;
+float scaler_y_scale = 1788.344798268679f;
+
+// Layer 0: 1 -> 10
+float weights_0[1][10] = {
+    {0.389808, -0.220694, -0.060530, 0.362304, -0.392653, -0.386696, -0.525085, 0.287447, 0.388318, -0.323335}
+};
+float biases_0[10] = {-0.154673, -0.076658, -0.136058, -0.081717, 0.143183, 0.106359, -0.078212, 0.059661, 0.084437, 0.027147};
+
+// Layer 1: 10 -> 1
+float weights_1[10][1] = {
+    {0.445674},
+    {-0.105056},
+    {-0.673103},
+    {0.569739},
+    {-0.631793},
+    {-0.440583},
+    {0.071213},
+    {-0.030064},
+    {-0.067304},
+    {-0.882389}
+};
+float biases_1[1] = {0.152199};
+
+// tanh activation - 使用查表优化
+#define TANH_TABLE_SIZE 2048
+#define TANH_INPUT_RANGE 4.0f
+static float tanh_table[TANH_TABLE_SIZE];
+
+float fast_tanh(float x) {
+    float abs_x = fabsf(x);
+    if (abs_x >= TANH_INPUT_RANGE) return (x > 0) ? 1.0f : -1.0f;
+    
+    float scaled_x = (abs_x * TANH_TABLE_SIZE) / TANH_INPUT_RANGE;
+    int index = (int)scaled_x;
+    float frac = scaled_x - index;
+    
+    float y = tanh_table[index] + 
+              (index < TANH_TABLE_SIZE-1 ? 
+               (tanh_table[index+1] - tanh_table[index]) * frac : 0);
+               
+    return (x > 0) ? y : -y;
+}
+
+// 推理函数
+float nn_predict(float input) {
+    float x = (input - scaler_x_mean) / scaler_x_scale;
+    float layer_0_out[10];
+    
+    // Layer 0
+    for (int j = 0; j < 10; j++) {
+        layer_0_out[j] = biases_0[j];
+        layer_0_out[j] += weights_0[0][j] * x;
+        layer_0_out[j] = fast_tanh(layer_0_out[j]);
+    }
+    
+    // Layer 1
+    float output = biases_1[0];
+    for (int k = 0; k < 10; k++) {
+        output += weights_1[k][0] * layer_0_out[k];
+    }
+    
+    return output * scaler_y_scale + scaler_y_mean;
+}
+
+// 初始化tanh查找表
+__attribute__((constructor))
+void init_tanh_table() {
+    for (int i = 0; i < TANH_TABLE_SIZE; i++) {
+        float x = (float)i * TANH_INPUT_RANGE / TANH_TABLE_SIZE;
+        tanh_table[i] = tanhf(x);
+    }
+}
+
+
+
 
 
 void usart_printf(char *format,...)           //串口格式字符串输出
@@ -663,6 +813,7 @@ KFPTypeS_Struct kfpVary =
 
 extern int exc;  //激光x坐标
 extern int eyc;  //激光y坐标
+int ridus=0;
 
 
 
@@ -685,7 +836,7 @@ void maixcam_RX_finish()  //maixcam数据包接收完成回调
   nyc1 =   *(int*)&Maixcam_RX_fifo[4];
   exc = *(int*)&Maixcam_RX_fifo[8];
   eyc = *(int*)&Maixcam_RX_fifo[12];
-
+  ridus = *(int*)&Maixcam_RX_fifo[16];
   // exc = *(int*)&Maixcam_RX_fifo[8];
   // eyc = *(int*)&Maixcam_RX_fifo[12];
   nxc = KalmanFilter(&kfpVarx,nxc1);
@@ -960,6 +1111,44 @@ float feedenn=0;
 
 float enn2=0;
 
+float fitting_calcu_0(int num)
+{
+  float y = 0.000018*num*num + -0.361413*num;
+  return y;
+}
+
+
+float fitting_calcu_1(int num)
+{
+  //float y =0.000021*num*num + -0.467049*num + 180.342935;
+// float y = 2420.123779 * atan(num / -5473.023949) + 177.338986;
+
+ float y = cheb_eval(num);
+  return y;
+}
+
+
+
+float fitting_calcu_2(int num)
+{
+  //float y =0.000021*num*num + -0.467049*num + 180.342935;
+// float y = 2420.123779 * atan(num / -5473.023949) + 177.338986;
+
+ float y = 0.000003*num*num + -0.219962*num;
+  return y;
+}
+
+
+
+float fitting_calcu_3(int num)
+{
+  //float y =0.000021*num*num + -0.467049*num + 180.342935;
+// float y = 2420.123779 * atan(num / -5473.023949) + 177.338986;
+
+ float y = nn_predict(num);
+  return y;
+}
+
 void enconter_to_angle()  //编码器转换角度
 {
   if( (turn_count-1)%4<0)
@@ -975,7 +1164,7 @@ void enconter_to_angle()  //编码器转换角度
   // last_c = c;
 
 
-  if(turn ==2||c == 0||c == 2)
+  if(turn ==2)
   {
     feedenn=0;
     // ennout = enconter;
@@ -991,6 +1180,9 @@ void enconter_to_angle()  //编码器转换角度
     stage=0;
   }
   
+
+
+
 
   if(c ==3)
   {
@@ -1009,7 +1201,21 @@ void enconter_to_angle()  //编码器转换角度
     enn1 = atan((enconter-ennerr)/dis_para[c])*angle1_pul+enn2+feedenn;
   }
 
+  switch (c)
+  {
+  case 0:
+    enn1 = fitting_calcu_0(enconter-ennerr)+enn2+feedenn;
+    break;
 
+  case 2:
+    enn1 = fitting_calcu_2(enconter-ennerr)+enn2+feedenn;
+    break;
+
+
+  default:
+    break;
+  }
+  
 
   
   // if(stage ==1)
@@ -1025,6 +1231,8 @@ void enconter_to_angle()  //编码器转换角度
 
 }
 
+
+int last_counter=0;
 
 void track_pid_run()    //追踪pid运行
 {
@@ -1105,16 +1313,38 @@ void track_pid_run()    //追踪pid运行
      tick_angle_buchang = getMicros();
 
   }
+
+
+
   if(state_qu==0)
   {
     move_to_position(a1+an1+enn1,a2);
-    //move_to_position(enn1,a2);
+    //move_to_position(fitting_calcu_3(enconter),a2);
   }
   else
   {
     move_to_position(a1,a2);
   }
+
+
+  //debug,发送脉冲信息
   
+  // if(enconter >= last_counter+1)
+  // {
+  //   int data = a1+an1+enn1;
+  //   int err = enconter - last_counter;
+  //   for (int i = 0; i < err; i++)
+  //   {
+  //     HAL_UART_Transmit(&huart8,(uint8_t*)&data,4,0xffff);
+  //   }
+    
+
+    
+  //   last_counter =enconter;
+  // }
+
+  //debug
+
 }
 
 
@@ -1325,7 +1555,7 @@ int main(void)
 
   OLED_Init();
   OLED_FullyClear();
-
+init_tanh_table();
 
   //zhang_get_y_angle();
   HAL_Delay(100);
@@ -1361,7 +1591,7 @@ laser_enable(0);
   // move_to_position(0,0);
   // move_to_position(500,500);
   // move_to_position(0,500);
-
+ //usart_printf("%d\n",enconter);
 
 
   switch (control_state)

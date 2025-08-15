@@ -55,6 +55,7 @@ target_sources(${CMAKE_PROJECT_NAME} PRIVATE
      ${CMAKE_CURRENT_SOURCE_DIR}/User/OLED.c
  
 ${CMAKE_CURRENT_SOURCE_DIR}/User/wit.c
+${CMAKE_CURRENT_SOURCE_DIR}/User/lookup_table.c
     # Add user sources here
 )
 
