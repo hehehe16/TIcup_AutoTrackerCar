@@ -827,6 +827,8 @@ float* kalman_x_redata;
 float* kalman_y_redata;
 
 
+
+
 // pid_handler pidx;
 // pid_handler pidy;
 
@@ -1060,10 +1062,10 @@ float eycir = 0;
 
 void draw_circle_1()
 {
-     excir =r1* cos(theta1) +nxc;
-     eycir =r1* sin(theta1) +nyc;
+     excir =ridus* cos(theta1) +nxc;
+     eycir =ridus* sin(theta1) +nyc;
     //theta1 +=0.00001;
-    theta1 = (enconter/28800)*2*3.1415926;
+    theta1 = (enconter/28800.0f)*2*3.1415926;
 
     //move_to_position(ex,ey);
     // HAL_Delay(10);
@@ -1094,7 +1096,7 @@ float therr=0;
 
 uint64_t tick_angle_buchang=0;
 
-
+uint8_t circle_state=0;
 
 extern float facc;
 
@@ -1262,10 +1264,18 @@ void track_pid_run()    //追踪pid运行
   }
   else
   {
+  if(circle_state ==1)
+  {
+    draw_circle_1();
+    a1 = pid_calculate(pidxstr,excir-oexc);
+    a2 = pid_calculate(&pidy,eycir-oeyc);
+  }
+  else
+  {
+    a1 = pid_calculate(pidxstr,nxc-oexc);
+    a2 = pid_calculate(&pidy,nyc-oeyc);
+  }
 
-
-  a1 = pid_calculate(pidxstr,nxc-oexc);
-  a2 = pid_calculate(&pidy,nyc-oeyc);
     //   if(c_change)
     // {
     //     if(c==3)
@@ -1630,7 +1640,11 @@ case 0:
     state_qu = 1;
     left_scan();
     break;
-    
+  case 4:
+    circle_state =1;
+    control_state =1;
+    break;
+
   default:
     break;
   }
