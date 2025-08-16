@@ -647,6 +647,7 @@ extern const int contour_lengths[]; //轮廓点数量
 uint8_t st =0;  //判定绘制过程或移动过程
 void draw_counter()   //轮廓绘制
 {
+  pul_speed = 500;
     for (int i = 0; i < 101; i++) {
         const int (*path)[2] = all_contours[i];
         int len = contour_lengths[i];
@@ -991,7 +992,7 @@ pid_handler pidx = //x位置环
 {
   .P = 40,
   .I = 40,
-  .D = 4,
+  .D = 6,
   .I2 = 0,
   .out_limit = {-10000,10000},
   .inte_limit = {-1000,1000},
@@ -1062,10 +1063,10 @@ float eycir = 0;
 
 void draw_circle_1()
 {
-     excir =ridus* cos(theta1) +nxc;
-     eycir =ridus* sin(theta1) +nyc;
+     excir =ridus* cos(-theta1) +nxc;
+     eycir =ridus* sin(-theta1) +nyc;
     //theta1 +=0.00001;
-    theta1 = (enconter/28800.0f)*2*3.1415926;
+    theta1 = (enconter/26800.0f)*2*3.1415926;
 
     //move_to_position(ex,ey);
     // HAL_Delay(10);
@@ -1644,6 +1645,10 @@ case 0:
     circle_state =1;
     control_state =1;
     break;
+  case 5:
+    draw_counter();
+    break;
+
 
   default:
     break;

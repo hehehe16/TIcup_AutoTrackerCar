@@ -464,223 +464,7 @@ Discarded input sections
  .text          0x00000000        0x0 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
  .data          0x00000000        0x0 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
  .bss           0x00000000        0x0 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_0
-                0x00000000       0x98 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_1
-                0x00000000       0x30 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_2
-                0x00000000       0x88 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_3
-                0x00000000       0x30 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_4
-                0x00000000       0x90 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_5
-                0x00000000       0x90 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_6
-                0x00000000       0x38 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_7
-                0x00000000       0x40 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_8
-                0x00000000       0x90 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_9
-                0x00000000       0x40 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_10
-                0x00000000       0x48 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_11
-                0x00000000       0x48 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_12
-                0x00000000       0x68 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_13
-                0x00000000       0x88 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_14
-                0x00000000       0x80 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_15
-                0x00000000       0x88 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_16
-                0x00000000       0x40 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_17
-                0x00000000       0xb0 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_18
-                0x00000000       0x38 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_19
-                0x00000000       0x80 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_20
-                0x00000000       0x40 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_21
-                0x00000000       0xb0 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_22
-                0x00000000       0x58 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_23
-                0x00000000       0x20 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_24
-                0x00000000       0x98 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_25
-                0x00000000       0x40 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_26
-                0x00000000       0x60 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_27
-                0x00000000       0x60 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_28
-                0x00000000       0x50 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_29
-                0x00000000       0xa8 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_30
-                0x00000000       0x30 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_31
-                0x00000000       0x98 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_32
-                0x00000000       0x30 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_33
-                0x00000000       0xd8 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_34
-                0x00000000       0x68 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_35
-                0x00000000       0x50 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_36
-                0x00000000       0x40 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_37
-                0x00000000       0x80 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_38
-                0x00000000       0x28 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_39
-                0x00000000       0x98 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_40
-                0x00000000       0x30 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_41
-                0x00000000       0x28 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_42
-                0x00000000       0x28 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_43
-                0x00000000       0x28 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_44
-                0x00000000       0xb0 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_45
-                0x00000000       0x40 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_46
-                0x00000000       0x70 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_47
-                0x00000000       0xc8 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_48
-                0x00000000      0x168 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_49
-                0x00000000      0x188 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_50
-                0x00000000       0x88 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_51
-                0x00000000       0x30 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_52
-                0x00000000      0x138 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_53
-                0x00000000       0x88 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_54
-                0x00000000       0x60 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_55
-                0x00000000       0xa8 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_56
-                0x00000000       0xe0 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_57
-                0x00000000       0x28 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_58
-                0x00000000       0xa0 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_59
-                0x00000000       0x38 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_60
-                0x00000000       0x30 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_61
-                0x00000000       0xd8 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_62
-                0x00000000       0xa8 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_63
-                0x00000000       0xf8 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_64
-                0x00000000       0x60 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_65
-                0x00000000       0x40 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_66
-                0x00000000       0x88 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_67
-                0x00000000       0x68 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_68
-                0x00000000       0x50 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_69
-                0x00000000       0x80 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_70
-                0x00000000       0x30 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_71
-                0x00000000       0x30 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_72
-                0x00000000       0x70 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_73
-                0x00000000       0xd0 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_74
-                0x00000000       0x28 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_75
-                0x00000000       0x70 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_76
-                0x00000000       0x80 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_77
-                0x00000000       0x58 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_78
-                0x00000000       0x90 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_79
-                0x00000000       0x30 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_80
-                0x00000000       0x40 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_81
-                0x00000000       0x38 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_82
-                0x00000000      0x110 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_83
-                0x00000000       0x98 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_84
-                0x00000000       0x38 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_85
-                0x00000000       0xb0 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_86
-                0x00000000       0x78 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_87
-                0x00000000       0x70 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_88
-                0x00000000      0x238 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_89
-                0x00000000       0x30 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_90
-                0x00000000       0x30 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_91
-                0x00000000       0x20 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_92
-                0x00000000      0x138 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_93
-                0x00000000       0x78 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_94
-                0x00000000       0x90 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_95
-                0x00000000      0x228 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_96
-                0x00000000      0x418 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_97
-                0x00000000      0x108 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_98
-                0x00000000       0x88 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_99
-                0x00000000       0xa0 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_100
-                0x00000000       0x98 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .rodata.contour_lengths
-                0x00000000      0x194 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .data.all_contours
-                0x00000000      0x194 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .debug_info    0x00000000      0xaed CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .debug_abbrev  0x00000000       0x73 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .debug_aranges
-                0x00000000       0x18 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .debug_macro   0x00000000       0x11 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
  .debug_macro   0x00000000      0xaf6 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .debug_line    0x00000000       0x69 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .debug_str     0x00000000     0x3386 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .comment       0x00000000       0x46 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
- .ARM.attributes
-                0x00000000       0x32 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
  .group         0x00000000        0xc CMakeFiles/TMC2209.dir/User/Kalman.c.obj
  .group         0x00000000        0xc CMakeFiles/TMC2209.dir/User/Kalman.c.obj
  .group         0x00000000        0xc CMakeFiles/TMC2209.dir/User/Kalman.c.obj
@@ -1427,9 +1211,6 @@ Discarded input sections
  .data.stagex   0x00000000        0x1 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
  .text.draw_cos
                 0x00000000      0x110 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
- .bss.st        0x00000000        0x1 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
- .text.draw_counter
-                0x00000000       0xb4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
  .bss.kalman_x_redata
                 0x00000000        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
  .bss.kalman_y_redata
@@ -5977,7 +5758,7 @@ LOAD E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/a
                 0x08000000                g_pfnVectors
                 0x08000298                        . = ALIGN (0x4)
 
-.text           0x08000298     0xb9b8
+.text           0x08000298     0xba88
                 0x08000298                        . = ALIGN (0x4)
  *(.text)
  .text          0x08000298       0x30 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libgcc.a(_aeabi_uldivmod.o)
@@ -6099,660 +5880,969 @@ LOAD E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/a
  .text.laser_enable
                 0x080013c4       0x24 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
                 0x080013c4                laser_enable
+ .text.draw_counter
+                0x080013e8       0xc0 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x080013e8                draw_counter
  .text.Maixcam_RX_callback
-                0x080013e8       0xd8 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x080013e8                Maixcam_RX_callback
+                0x080014a8       0xd8 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x080014a8                Maixcam_RX_callback
  .text.m0g3507_RX_callback
-                0x080014c0       0xd8 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x080014c0                m0g3507_RX_callback
+                0x08001580       0xd8 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x08001580                m0g3507_RX_callback
  .text.maixcam_RX_finish
-                0x08001598       0xb4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x08001598                maixcam_RX_finish
+                0x08001658       0xb4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x08001658                maixcam_RX_finish
  .text.g3507_RX_finish
-                0x0800164c       0x38 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x0800164c                g3507_RX_finish
- *fill*         0x08001684        0x4 
+                0x0800170c       0x38 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x0800170c                g3507_RX_finish
+ *fill*         0x08001744        0x4 
  .text.draw_circle_1
-                0x08001688       0xe8 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x08001688                draw_circle_1
+                0x08001748       0xf0 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x08001748                draw_circle_1
  .text.fitting_calcu_0
-                0x08001770       0x70 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x08001770                fitting_calcu_0
+                0x08001838       0x70 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x08001838                fitting_calcu_0
  .text.fitting_calcu_2
-                0x080017e0       0x70 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x080017e0                fitting_calcu_2
+                0x080018a8       0x70 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x080018a8                fitting_calcu_2
  .text.enconter_to_angle
-                0x08001850      0x228 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x08001850                enconter_to_angle
+                0x08001918      0x228 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x08001918                enconter_to_angle
  .text.track_pid_run
-                0x08001a78      0x278 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x08001a78                track_pid_run
+                0x08001b40      0x278 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x08001b40                track_pid_run
  .text.right_scan
-                0x08001cf0       0xd4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x08001cf0                right_scan
+                0x08001db8       0xd4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x08001db8                right_scan
  .text.left_scan
-                0x08001dc4       0xd4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x08001dc4                left_scan
- .text.main     0x08001e98      0x1c4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x08001e98                main
+                0x08001e8c       0xd4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x08001e8c                left_scan
+ .text.main     0x08001f60      0x1d0 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x08001f60                main
  .text.SystemClock_Config
-                0x0800205c       0xf4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x0800205c                SystemClock_Config
+                0x08002130       0xf4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x08002130                SystemClock_Config
  .text.MPU_Config
-                0x08002150       0x58 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x08002224       0x58 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
  .text.Error_Handler
-                0x080021a8        0xc CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x080021a8                Error_Handler
+                0x0800227c        0xc CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x0800227c                Error_Handler
  .text.MX_GPIO_Init
-                0x080021b4      0x204 CMakeFiles/TMC2209.dir/Core/Src/gpio.c.obj
-                0x080021b4                MX_GPIO_Init
+                0x08002288      0x204 CMakeFiles/TMC2209.dir/Core/Src/gpio.c.obj
+                0x08002288                MX_GPIO_Init
  .text.MX_I2C2_Init
-                0x080023b8       0x84 CMakeFiles/TMC2209.dir/Core/Src/i2c.c.obj
-                0x080023b8                MX_I2C2_Init
+                0x0800248c       0x84 CMakeFiles/TMC2209.dir/Core/Src/i2c.c.obj
+                0x0800248c                MX_I2C2_Init
  .text.HAL_I2C_MspInit
-                0x0800243c       0xd4 CMakeFiles/TMC2209.dir/Core/Src/i2c.c.obj
-                0x0800243c                HAL_I2C_MspInit
+                0x08002510       0xd4 CMakeFiles/TMC2209.dir/Core/Src/i2c.c.obj
+                0x08002510                HAL_I2C_MspInit
  .text.MX_UART4_Init
-                0x08002510       0x98 CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
-                0x08002510                MX_UART4_Init
+                0x080025e4       0x98 CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
+                0x080025e4                MX_UART4_Init
  .text.MX_UART8_Init
-                0x080025a8       0x98 CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
-                0x080025a8                MX_UART8_Init
+                0x0800267c       0x98 CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
+                0x0800267c                MX_UART8_Init
  .text.MX_USART1_UART_Init
-                0x08002640       0x98 CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
-                0x08002640                MX_USART1_UART_Init
+                0x08002714       0x98 CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
+                0x08002714                MX_USART1_UART_Init
  .text.MX_USART2_UART_Init
-                0x080026d8       0x98 CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
-                0x080026d8                MX_USART2_UART_Init
+                0x080027ac       0x98 CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
+                0x080027ac                MX_USART2_UART_Init
  .text.MX_USART3_UART_Init
-                0x08002770       0x98 CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
-                0x08002770                MX_USART3_UART_Init
+                0x08002844       0x98 CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
+                0x08002844                MX_USART3_UART_Init
  .text.MX_USART6_UART_Init
-                0x08002808       0x98 CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
-                0x08002808                MX_USART6_UART_Init
+                0x080028dc       0x98 CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
+                0x080028dc                MX_USART6_UART_Init
  .text.HAL_UART_MspInit
-                0x080028a0      0x4c0 CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
-                0x080028a0                HAL_UART_MspInit
+                0x08002974      0x4c0 CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
+                0x08002974                HAL_UART_MspInit
  .text.NMI_Handler
-                0x08002d60        0x8 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
-                0x08002d60                NMI_Handler
+                0x08002e34        0x8 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
+                0x08002e34                NMI_Handler
  .text.HardFault_Handler
-                0x08002d68        0x8 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
-                0x08002d68                HardFault_Handler
+                0x08002e3c        0x8 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
+                0x08002e3c                HardFault_Handler
  .text.MemManage_Handler
-                0x08002d70        0x8 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
-                0x08002d70                MemManage_Handler
+                0x08002e44        0x8 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
+                0x08002e44                MemManage_Handler
  .text.BusFault_Handler
-                0x08002d78        0x8 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
-                0x08002d78                BusFault_Handler
+                0x08002e4c        0x8 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
+                0x08002e4c                BusFault_Handler
  .text.UsageFault_Handler
-                0x08002d80        0x8 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
-                0x08002d80                UsageFault_Handler
+                0x08002e54        0x8 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
+                0x08002e54                UsageFault_Handler
  .text.SVC_Handler
-                0x08002d88        0xe CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
-                0x08002d88                SVC_Handler
+                0x08002e5c        0xe CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
+                0x08002e5c                SVC_Handler
  .text.DebugMon_Handler
-                0x08002d96        0xe CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
-                0x08002d96                DebugMon_Handler
+                0x08002e6a        0xe CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
+                0x08002e6a                DebugMon_Handler
  .text.PendSV_Handler
-                0x08002da4        0xe CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
-                0x08002da4                PendSV_Handler
+                0x08002e78        0xe CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
+                0x08002e78                PendSV_Handler
  .text.SysTick_Handler
-                0x08002db2        0xc CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
-                0x08002db2                SysTick_Handler
+                0x08002e86        0xc CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
+                0x08002e86                SysTick_Handler
  .text.EXTI0_IRQHandler
-                0x08002dbe        0xe CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
-                0x08002dbe                EXTI0_IRQHandler
+                0x08002e92        0xe CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
+                0x08002e92                EXTI0_IRQHandler
  .text.EXTI2_IRQHandler
-                0x08002dcc        0xe CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
-                0x08002dcc                EXTI2_IRQHandler
+                0x08002ea0        0xe CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
+                0x08002ea0                EXTI2_IRQHandler
  .text.EXTI4_IRQHandler
-                0x08002dda        0xe CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
-                0x08002dda                EXTI4_IRQHandler
+                0x08002eae        0xe CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
+                0x08002eae                EXTI4_IRQHandler
  .text.USART1_IRQHandler
-                0x08002de8       0x14 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
-                0x08002de8                USART1_IRQHandler
+                0x08002ebc       0x14 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
+                0x08002ebc                USART1_IRQHandler
  .text.USART2_IRQHandler
-                0x08002dfc       0x2c CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
-                0x08002dfc                USART2_IRQHandler
+                0x08002ed0       0x2c CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
+                0x08002ed0                USART2_IRQHandler
  .text.USART3_IRQHandler
-                0x08002e28       0x14 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
-                0x08002e28                USART3_IRQHandler
+                0x08002efc       0x14 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
+                0x08002efc                USART3_IRQHandler
  .text.UART4_IRQHandler
-                0x08002e3c       0x14 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
-                0x08002e3c                UART4_IRQHandler
+                0x08002f10       0x14 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
+                0x08002f10                UART4_IRQHandler
  .text.USART6_IRQHandler
-                0x08002e50       0x14 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
-                0x08002e50                USART6_IRQHandler
+                0x08002f24       0x14 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
+                0x08002f24                USART6_IRQHandler
  .text.UART8_IRQHandler
-                0x08002e64       0x14 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
-                0x08002e64                UART8_IRQHandler
+                0x08002f38       0x14 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
+                0x08002f38                UART8_IRQHandler
  .text.HAL_MspInit
-                0x08002e78       0x34 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_hal_msp.c.obj
-                0x08002e78                HAL_MspInit
+                0x08002f4c       0x34 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+                0x08002f4c                HAL_MspInit
  .text.__NVIC_SetPriorityGrouping
-                0x08002eac       0x48 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+                0x08002f80       0x48 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
  .text.__NVIC_GetPriorityGrouping
-                0x08002ef4       0x1c CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+                0x08002fc8       0x1c CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
  .text.__NVIC_EnableIRQ
-                0x08002f10       0x3c CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+                0x08002fe4       0x3c CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
  .text.__NVIC_SetPriority
-                0x08002f4c       0x54 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+                0x08003020       0x54 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
  .text.NVIC_EncodePriority
-                0x08002fa0       0x66 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
- *fill*         0x08003006        0x2 
+                0x08003074       0x66 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ *fill*         0x080030da        0x2 
  .text.SysTick_Config
-                0x08003008       0x44 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+                0x080030dc       0x44 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
  .text.HAL_NVIC_SetPriorityGrouping
-                0x0800304c       0x16 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
-                0x0800304c                HAL_NVIC_SetPriorityGrouping
+                0x08003120       0x16 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+                0x08003120                HAL_NVIC_SetPriorityGrouping
  .text.HAL_NVIC_SetPriority
-                0x08003062       0x34 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
-                0x08003062                HAL_NVIC_SetPriority
+                0x08003136       0x34 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+                0x08003136                HAL_NVIC_SetPriority
  .text.HAL_NVIC_EnableIRQ
-                0x08003096       0x1c CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
-                0x08003096                HAL_NVIC_EnableIRQ
+                0x0800316a       0x1c CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+                0x0800316a                HAL_NVIC_EnableIRQ
  .text.HAL_SYSTICK_Config
-                0x080030b2       0x18 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
-                0x080030b2                HAL_SYSTICK_Config
- *fill*         0x080030ca        0x2 
+                0x08003186       0x18 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+                0x08003186                HAL_SYSTICK_Config
+ *fill*         0x0800319e        0x2 
  .text.HAL_MPU_Disable
-                0x080030cc       0x30 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
-                0x080030cc                HAL_MPU_Disable
+                0x080031a0       0x30 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+                0x080031a0                HAL_MPU_Disable
  .text.HAL_MPU_Enable
-                0x080030fc       0x40 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
-                0x080030fc                HAL_MPU_Enable
+                0x080031d0       0x40 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+                0x080031d0                HAL_MPU_Enable
  .text.HAL_MPU_ConfigRegion
-                0x0800313c       0x80 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
-                0x0800313c                HAL_MPU_ConfigRegion
+                0x08003210       0x80 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+                0x08003210                HAL_MPU_ConfigRegion
  .text.HAL_RCC_OscConfig
-                0x080031bc      0x8b4 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
-                0x080031bc                HAL_RCC_OscConfig
+                0x08003290      0x8b4 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+                0x08003290                HAL_RCC_OscConfig
  .text.HAL_RCC_ClockConfig
-                0x08003a70      0x36c CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
-                0x08003a70                HAL_RCC_ClockConfig
+                0x08003b44      0x36c CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+                0x08003b44                HAL_RCC_ClockConfig
  .text.HAL_RCC_GetSysClockFreq
-                0x08003ddc      0x2f4 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
-                0x08003ddc                HAL_RCC_GetSysClockFreq
+                0x08003eb0      0x2f4 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+                0x08003eb0                HAL_RCC_GetSysClockFreq
  .text.HAL_RCC_GetHCLKFreq
-                0x080040d0       0x60 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
-                0x080040d0                HAL_RCC_GetHCLKFreq
+                0x080041a4       0x60 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+                0x080041a4                HAL_RCC_GetHCLKFreq
  .text.HAL_RCC_GetPCLK1Freq
-                0x08004130       0x2c CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
-                0x08004130                HAL_RCC_GetPCLK1Freq
+                0x08004204       0x2c CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+                0x08004204                HAL_RCC_GetPCLK1Freq
  .text.HAL_RCC_GetPCLK2Freq
-                0x0800415c       0x2c CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
-                0x0800415c                HAL_RCC_GetPCLK2Freq
+                0x08004230       0x2c CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+                0x08004230                HAL_RCC_GetPCLK2Freq
  .text.HAL_RCCEx_PeriphCLKConfig
-                0x08004188     0x1414 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
-                0x08004188                HAL_RCCEx_PeriphCLKConfig
+                0x0800425c     0x1414 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+                0x0800425c                HAL_RCCEx_PeriphCLKConfig
  .text.HAL_RCCEx_GetD3PCLK1Freq
-                0x0800559c       0x2c CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
-                0x0800559c                HAL_RCCEx_GetD3PCLK1Freq
+                0x08005670       0x2c CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+                0x08005670                HAL_RCCEx_GetD3PCLK1Freq
  .text.HAL_RCCEx_GetPLL2ClockFreq
-                0x080055c8      0x2a8 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
-                0x080055c8                HAL_RCCEx_GetPLL2ClockFreq
+                0x0800569c      0x2a8 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+                0x0800569c                HAL_RCCEx_GetPLL2ClockFreq
  .text.HAL_RCCEx_GetPLL3ClockFreq
-                0x08005870      0x2a8 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
-                0x08005870                HAL_RCCEx_GetPLL3ClockFreq
+                0x08005944      0x2a8 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+                0x08005944                HAL_RCCEx_GetPLL3ClockFreq
  .text.RCCEx_PLL2_Config
-                0x08005b18      0x164 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+                0x08005bec      0x164 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
  .text.RCCEx_PLL3_Config
-                0x08005c7c      0x164 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+                0x08005d50      0x164 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
  .text.HAL_GPIO_Init
-                0x08005de0      0x360 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
-                0x08005de0                HAL_GPIO_Init
+                0x08005eb4      0x360 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+                0x08005eb4                HAL_GPIO_Init
  .text.HAL_GPIO_WritePin
-                0x08006140       0x32 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
-                0x08006140                HAL_GPIO_WritePin
+                0x08006214       0x32 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+                0x08006214                HAL_GPIO_WritePin
  .text.HAL_GPIO_EXTI_IRQHandler
-                0x08006172       0x34 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
-                0x08006172                HAL_GPIO_EXTI_IRQHandler
- *fill*         0x080061a6        0x2 
+                0x08006246       0x34 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+                0x08006246                HAL_GPIO_EXTI_IRQHandler
+ *fill*         0x0800627a        0x2 
  .text.HAL_DMA_Abort
-                0x080061a8      0x63c CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
-                0x080061a8                HAL_DMA_Abort
+                0x0800627c      0x63c CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+                0x0800627c                HAL_DMA_Abort
  .text.HAL_DMA_Abort_IT
-                0x080067e4      0x48c CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
-                0x080067e4                HAL_DMA_Abort_IT
+                0x080068b8      0x48c CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+                0x080068b8                HAL_DMA_Abort_IT
  .text.HAL_PWREx_ConfigSupply
-                0x08006c70       0x74 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
-                0x08006c70                HAL_PWREx_ConfigSupply
+                0x08006d44       0x74 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+                0x08006d44                HAL_PWREx_ConfigSupply
  .text.HAL_Init
-                0x08006ce4       0x78 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
-                0x08006ce4                HAL_Init
+                0x08006db8       0x78 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+                0x08006db8                HAL_Init
  .text.HAL_InitTick
-                0x08006d5c       0x6c CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
-                0x08006d5c                HAL_InitTick
+                0x08006e30       0x6c CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+                0x08006e30                HAL_InitTick
  .text.HAL_IncTick
-                0x08006dc8       0x28 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
-                0x08006dc8                HAL_IncTick
+                0x08006e9c       0x28 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+                0x08006e9c                HAL_IncTick
  .text.HAL_GetTick
-                0x08006df0       0x18 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
-                0x08006df0                HAL_GetTick
+                0x08006ec4       0x18 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+                0x08006ec4                HAL_GetTick
  .text.HAL_Delay
-                0x08006e08       0x48 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
-                0x08006e08                HAL_Delay
+                0x08006edc       0x48 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+                0x08006edc                HAL_Delay
  .text.HAL_GetREVID
-                0x08006e50       0x18 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
-                0x08006e50                HAL_GetREVID
+                0x08006f24       0x18 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+                0x08006f24                HAL_GetREVID
  .text.HAL_I2C_Init
-                0x08006e68      0x138 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
-                0x08006e68                HAL_I2C_Init
+                0x08006f3c      0x138 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+                0x08006f3c                HAL_I2C_Init
  .text.HAL_I2C_Mem_Write
-                0x08006fa0      0x228 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
-                0x08006fa0                HAL_I2C_Mem_Write
+                0x08007074      0x228 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+                0x08007074                HAL_I2C_Mem_Write
  .text.I2C_RequestMemoryWrite
-                0x080071c8       0xa8 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+                0x0800729c       0xa8 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
  .text.I2C_Flush_TXDR
-                0x08007270       0x48 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+                0x08007344       0x48 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
  .text.I2C_WaitOnFlagUntilTimeout
-                0x080072b8       0xb2 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+                0x0800738c       0xb2 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
  .text.I2C_WaitOnTXISFlagUntilTimeout
-                0x0800736a       0x8e CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+                0x0800743e       0x8e CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
  .text.I2C_WaitOnSTOPFlagUntilTimeout
-                0x080073f8       0x86 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
- *fill*         0x0800747e        0x2 
+                0x080074cc       0x86 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ *fill*         0x08007552        0x2 
  .text.I2C_IsErrorOccurred
-                0x08007480      0x1c0 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+                0x08007554      0x1c0 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
  .text.I2C_TransferConfig
-                0x08007640       0x64 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+                0x08007714       0x64 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
  .text.HAL_I2CEx_ConfigAnalogFilter
-                0x080076a4       0x96 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
-                0x080076a4                HAL_I2CEx_ConfigAnalogFilter
+                0x08007778       0x96 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
+                0x08007778                HAL_I2CEx_ConfigAnalogFilter
  .text.HAL_I2CEx_ConfigDigitalFilter
-                0x0800773a       0x98 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
-                0x0800773a                HAL_I2CEx_ConfigDigitalFilter
- *fill*         0x080077d2        0x2 
+                0x0800780e       0x98 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
+                0x0800780e                HAL_I2CEx_ConfigDigitalFilter
+ *fill*         0x080078a6        0x2 
  .text.HAL_I2CEx_EnableFastModePlus
-                0x080077d4       0x48 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
-                0x080077d4                HAL_I2CEx_EnableFastModePlus
+                0x080078a8       0x48 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
+                0x080078a8                HAL_I2CEx_EnableFastModePlus
  .text.HAL_UART_Init
-                0x0800781c       0xc0 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
-                0x0800781c                HAL_UART_Init
+                0x080078f0       0xc0 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+                0x080078f0                HAL_UART_Init
  .text.HAL_UART_RegisterCallback
-                0x080078dc      0x174 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
-                0x080078dc                HAL_UART_RegisterCallback
+                0x080079b0      0x174 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+                0x080079b0                HAL_UART_RegisterCallback
  .text.HAL_UART_Transmit
-                0x08007a50      0x11c CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
-                0x08007a50                HAL_UART_Transmit
+                0x08007b24      0x11c CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+                0x08007b24                HAL_UART_Transmit
  .text.HAL_UART_Receive_IT
-                0x08007b6c       0x98 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
-                0x08007b6c                HAL_UART_Receive_IT
+                0x08007c40       0x98 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+                0x08007c40                HAL_UART_Receive_IT
  .text.HAL_UART_IRQHandler
-                0x08007c04      0x7d0 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
-                0x08007c04                HAL_UART_IRQHandler
+                0x08007cd8      0x7d0 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+                0x08007cd8                HAL_UART_IRQHandler
  .text.HAL_UART_TxCpltCallback
-                0x080083d4       0x14 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
-                0x080083d4                HAL_UART_TxCpltCallback
+                0x080084a8       0x14 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+                0x080084a8                HAL_UART_TxCpltCallback
  .text.HAL_UART_TxHalfCpltCallback
-                0x080083e8       0x14 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
-                0x080083e8                HAL_UART_TxHalfCpltCallback
+                0x080084bc       0x14 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+                0x080084bc                HAL_UART_TxHalfCpltCallback
  .text.HAL_UART_RxCpltCallback
-                0x080083fc       0x14 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
-                0x080083fc                HAL_UART_RxCpltCallback
+                0x080084d0       0x14 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+                0x080084d0                HAL_UART_RxCpltCallback
  .text.HAL_UART_RxHalfCpltCallback
-                0x08008410       0x14 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
-                0x08008410                HAL_UART_RxHalfCpltCallback
+                0x080084e4       0x14 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+                0x080084e4                HAL_UART_RxHalfCpltCallback
  .text.HAL_UART_ErrorCallback
-                0x08008424       0x14 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
-                0x08008424                HAL_UART_ErrorCallback
+                0x080084f8       0x14 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+                0x080084f8                HAL_UART_ErrorCallback
  .text.HAL_UART_AbortCpltCallback
-                0x08008438       0x14 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
-                0x08008438                HAL_UART_AbortCpltCallback
+                0x0800850c       0x14 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+                0x0800850c                HAL_UART_AbortCpltCallback
  .text.HAL_UART_AbortTransmitCpltCallback
-                0x0800844c       0x14 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
-                0x0800844c                HAL_UART_AbortTransmitCpltCallback
+                0x08008520       0x14 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+                0x08008520                HAL_UART_AbortTransmitCpltCallback
  .text.HAL_UART_AbortReceiveCpltCallback
-                0x08008460       0x14 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
-                0x08008460                HAL_UART_AbortReceiveCpltCallback
+                0x08008534       0x14 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+                0x08008534                HAL_UART_AbortReceiveCpltCallback
  .text.HAL_UARTEx_RxEventCallback
-                0x08008474       0x18 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
-                0x08008474                HAL_UARTEx_RxEventCallback
+                0x08008548       0x18 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+                0x08008548                HAL_UARTEx_RxEventCallback
  .text.UART_InitCallbacksToDefault
-                0x0800848c       0xa4 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
-                0x0800848c                UART_InitCallbacksToDefault
+                0x08008560       0xa4 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+                0x08008560                UART_InitCallbacksToDefault
  .text.UART_SetConfig
-                0x08008530      0xad0 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
-                0x08008530                UART_SetConfig
+                0x08008604      0xad0 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+                0x08008604                UART_SetConfig
  .text.UART_AdvFeatureConfig
-                0x08009000      0x144 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
-                0x08009000                UART_AdvFeatureConfig
+                0x080090d4      0x144 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+                0x080090d4                UART_AdvFeatureConfig
  .text.UART_CheckIdleState
-                0x08009144      0x154 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
-                0x08009144                UART_CheckIdleState
+                0x08009218      0x154 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+                0x08009218                UART_CheckIdleState
  .text.UART_WaitOnFlagUntilTimeout
-                0x08009298       0xda CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
-                0x08009298                UART_WaitOnFlagUntilTimeout
- *fill*         0x08009372        0x2 
+                0x0800936c       0xda CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+                0x0800936c                UART_WaitOnFlagUntilTimeout
+ *fill*         0x08009446        0x2 
  .text.UART_Start_Receive_IT
-                0x08009374      0x244 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
-                0x08009374                UART_Start_Receive_IT
+                0x08009448      0x244 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+                0x08009448                UART_Start_Receive_IT
  .text.UART_EndRxTransfer
-                0x080095b8       0xcc CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+                0x0800968c       0xcc CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
  .text.UART_DMAAbortOnError
-                0x08009684       0x28 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+                0x08009758       0x28 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
  .text.UART_EndTransmit_IT
-                0x080096ac       0x5a CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
- *fill*         0x08009706        0x2 
+                0x08009780       0x5a CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+ *fill*         0x080097da        0x2 
  .text.UART_RxISR_8BIT
-                0x08009708      0x1c0 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+                0x080097dc      0x1c0 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
  .text.UART_RxISR_16BIT
-                0x080098c8      0x1c0 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+                0x0800999c      0x1c0 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
  .text.UART_RxISR_8BIT_FIFOEN
-                0x08009a88      0x370 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+                0x08009b5c      0x370 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
  .text.UART_RxISR_16BIT_FIFOEN
-                0x08009df8      0x378 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+                0x08009ecc      0x378 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
  .text.HAL_UARTEx_WakeupCallback
-                0x0800a170       0x14 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
-                0x0800a170                HAL_UARTEx_WakeupCallback
+                0x0800a244       0x14 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
+                0x0800a244                HAL_UARTEx_WakeupCallback
  .text.HAL_UARTEx_RxFifoFullCallback
-                0x0800a184       0x14 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
-                0x0800a184                HAL_UARTEx_RxFifoFullCallback
+                0x0800a258       0x14 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
+                0x0800a258                HAL_UARTEx_RxFifoFullCallback
  .text.HAL_UARTEx_TxFifoEmptyCallback
-                0x0800a198       0x14 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
-                0x0800a198                HAL_UARTEx_TxFifoEmptyCallback
+                0x0800a26c       0x14 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
+                0x0800a26c                HAL_UARTEx_TxFifoEmptyCallback
  .text.HAL_UARTEx_DisableFifoMode
-                0x0800a1ac       0x72 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
-                0x0800a1ac                HAL_UARTEx_DisableFifoMode
+                0x0800a280       0x72 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
+                0x0800a280                HAL_UARTEx_DisableFifoMode
  .text.HAL_UARTEx_SetTxFifoThreshold
-                0x0800a21e       0x7c CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
-                0x0800a21e                HAL_UARTEx_SetTxFifoThreshold
+                0x0800a2f2       0x7c CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
+                0x0800a2f2                HAL_UARTEx_SetTxFifoThreshold
  .text.HAL_UARTEx_SetRxFifoThreshold
-                0x0800a29a       0x7c CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
-                0x0800a29a                HAL_UARTEx_SetRxFifoThreshold
- *fill*         0x0800a316        0x2 
+                0x0800a36e       0x7c CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
+                0x0800a36e                HAL_UARTEx_SetRxFifoThreshold
+ *fill*         0x0800a3ea        0x2 
  .text.UARTEx_SetNbDataToProcess
-                0x0800a318       0x9c CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
+                0x0800a3ec       0x9c CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
  .text.SystemInit
-                0x0800a3b4      0x140 CMakeFiles/TMC2209.dir/Core/Src/system_stm32h7xx.c.obj
-                0x0800a3b4                SystemInit
+                0x0800a488      0x140 CMakeFiles/TMC2209.dir/Core/Src/system_stm32h7xx.c.obj
+                0x0800a488                SystemInit
  .text.ExitRun0Mode
-                0x0800a4f4       0x30 CMakeFiles/TMC2209.dir/Core/Src/system_stm32h7xx.c.obj
-                0x0800a4f4                ExitRun0Mode
+                0x0800a5c8       0x30 CMakeFiles/TMC2209.dir/Core/Src/system_stm32h7xx.c.obj
+                0x0800a5c8                ExitRun0Mode
  .text.Reset_Handler
-                0x0800a524       0x54 CMakeFiles/TMC2209.dir/startup_stm32h750xx.s.obj
-                0x0800a524                Reset_Handler
+                0x0800a5f8       0x54 CMakeFiles/TMC2209.dir/startup_stm32h750xx.s.obj
+                0x0800a5f8                Reset_Handler
  .text.Default_Handler
-                0x0800a578        0x2 CMakeFiles/TMC2209.dir/startup_stm32h750xx.s.obj
-                0x0800a578                RTC_Alarm_IRQHandler
-                0x0800a578                HASH_RNG_IRQHandler
-                0x0800a578                TIM8_CC_IRQHandler
-                0x0800a578                HRTIM1_Master_IRQHandler
-                0x0800a578                SPI4_IRQHandler
-                0x0800a578                TIM1_CC_IRQHandler
-                0x0800a578                BDMA_Channel6_IRQHandler
-                0x0800a578                DMA2_Stream5_IRQHandler
-                0x0800a578                HRTIM1_FLT_IRQHandler
-                0x0800a578                JPEG_IRQHandler
-                0x0800a578                DMA1_Stream5_IRQHandler
-                0x0800a578                BDMA_Channel1_IRQHandler
-                0x0800a578                HRTIM1_TIMD_IRQHandler
-                0x0800a578                TAMP_STAMP_IRQHandler
-                0x0800a578                EXTI3_IRQHandler
-                0x0800a578                LPTIM4_IRQHandler
-                0x0800a578                TIM8_TRG_COM_TIM14_IRQHandler
-                0x0800a578                LPTIM2_IRQHandler
-                0x0800a578                DFSDM1_FLT1_IRQHandler
-                0x0800a578                DMAMUX2_OVR_IRQHandler
-                0x0800a578                TIM8_UP_TIM13_IRQHandler
-                0x0800a578                I2C3_ER_IRQHandler
-                0x0800a578                DFSDM1_FLT2_IRQHandler
-                0x0800a578                MDMA_IRQHandler
-                0x0800a578                LPTIM3_IRQHandler
-                0x0800a578                HSEM1_IRQHandler
-                0x0800a578                I2C2_EV_IRQHandler
-                0x0800a578                DMA1_Stream2_IRQHandler
-                0x0800a578                FPU_IRQHandler
-                0x0800a578                OTG_HS_WKUP_IRQHandler
-                0x0800a578                FDCAN1_IT1_IRQHandler
-                0x0800a578                LTDC_ER_IRQHandler
-                0x0800a578                DMA2_Stream2_IRQHandler
-                0x0800a578                HRTIM1_TIME_IRQHandler
-                0x0800a578                SPI1_IRQHandler
-                0x0800a578                TIM6_DAC_IRQHandler
-                0x0800a578                DCMI_IRQHandler
-                0x0800a578                HRTIM1_TIMC_IRQHandler
-                0x0800a578                DMA2_Stream3_IRQHandler
-                0x0800a578                SAI2_IRQHandler
-                0x0800a578                DFSDM1_FLT3_IRQHandler
-                0x0800a578                TIM17_IRQHandler
-                0x0800a578                BDMA_Channel7_IRQHandler
-                0x0800a578                CRYP_IRQHandler
-                0x0800a578                LPTIM5_IRQHandler
-                0x0800a578                UART5_IRQHandler
-                0x0800a578                ADC3_IRQHandler
-                0x0800a578                DMA2_Stream0_IRQHandler
-                0x0800a578                TIM4_IRQHandler
-                0x0800a578                BDMA_Channel2_IRQHandler
-                0x0800a578                QUADSPI_IRQHandler
-                0x0800a578                I2C1_EV_IRQHandler
-                0x0800a578                DMA1_Stream6_IRQHandler
-                0x0800a578                DMAMUX1_OVR_IRQHandler
-                0x0800a578                DMA1_Stream1_IRQHandler
-                0x0800a578                TIM16_IRQHandler
-                0x0800a578                BDMA_Channel5_IRQHandler
-                0x0800a578                TIM3_IRQHandler
-                0x0800a578                RCC_IRQHandler
-                0x0800a578                TIM8_BRK_TIM12_IRQHandler
-                0x0800a578                TIM1_TRG_COM_IRQHandler
-                0x0800a578                Default_Handler
-                0x0800a578                ECC_IRQHandler
-                0x0800a578                CEC_IRQHandler
-                0x0800a578                EXTI15_10_IRQHandler
-                0x0800a578                BDMA_Channel0_IRQHandler
-                0x0800a578                ADC_IRQHandler
-                0x0800a578                DMA1_Stream7_IRQHandler
-                0x0800a578                HRTIM1_TIMA_IRQHandler
-                0x0800a578                SPI5_IRQHandler
-                0x0800a578                TIM7_IRQHandler
-                0x0800a578                SDMMC1_IRQHandler
-                0x0800a578                TIM5_IRQHandler
-                0x0800a578                DMA2_Stream7_IRQHandler
-                0x0800a578                TIM15_IRQHandler
-                0x0800a578                PVD_AVD_IRQHandler
-                0x0800a578                I2C3_EV_IRQHandler
-                0x0800a578                EXTI9_5_IRQHandler
-                0x0800a578                RTC_WKUP_IRQHandler
-                0x0800a578                LTDC_IRQHandler
-                0x0800a578                SAI3_IRQHandler
-                0x0800a578                ETH_WKUP_IRQHandler
-                0x0800a578                SPDIF_RX_IRQHandler
-                0x0800a578                SPI2_IRQHandler
-                0x0800a578                OTG_HS_EP1_IN_IRQHandler
-                0x0800a578                DMA1_Stream0_IRQHandler
-                0x0800a578                CRS_IRQHandler
-                0x0800a578                HRTIM1_TIMB_IRQHandler
-                0x0800a578                FDCAN2_IT1_IRQHandler
-                0x0800a578                ETH_IRQHandler
-                0x0800a578                TIM1_UP_IRQHandler
-                0x0800a578                BDMA_Channel4_IRQHandler
-                0x0800a578                OTG_HS_EP1_OUT_IRQHandler
-                0x0800a578                WWDG_IRQHandler
-                0x0800a578                SPI6_IRQHandler
-                0x0800a578                MDIOS_IRQHandler
-                0x0800a578                I2C4_EV_IRQHandler
-                0x0800a578                FDCAN2_IT0_IRQHandler
-                0x0800a578                LPUART1_IRQHandler
-                0x0800a578                FDCAN1_IT0_IRQHandler
-                0x0800a578                TIM2_IRQHandler
-                0x0800a578                OTG_FS_WKUP_IRQHandler
-                0x0800a578                OTG_HS_IRQHandler
-                0x0800a578                DMA2D_IRQHandler
-                0x0800a578                TIM1_BRK_IRQHandler
-                0x0800a578                EXTI1_IRQHandler
-                0x0800a578                SDMMC2_IRQHandler
-                0x0800a578                OTG_FS_EP1_OUT_IRQHandler
-                0x0800a578                BDMA_Channel3_IRQHandler
-                0x0800a578                UART7_IRQHandler
-                0x0800a578                MDIOS_WKUP_IRQHandler
-                0x0800a578                DFSDM1_FLT0_IRQHandler
-                0x0800a578                SAI4_IRQHandler
-                0x0800a578                I2C2_ER_IRQHandler
-                0x0800a578                DMA2_Stream1_IRQHandler
-                0x0800a578                FLASH_IRQHandler
-                0x0800a578                DMA2_Stream4_IRQHandler
-                0x0800a578                OTG_FS_IRQHandler
-                0x0800a578                SPI3_IRQHandler
-                0x0800a578                WAKEUP_PIN_IRQHandler
-                0x0800a578                DMA1_Stream4_IRQHandler
-                0x0800a578                OTG_FS_EP1_IN_IRQHandler
-                0x0800a578                I2C1_ER_IRQHandler
-                0x0800a578                FMC_IRQHandler
-                0x0800a578                FDCAN_CAL_IRQHandler
-                0x0800a578                SWPMI1_IRQHandler
-                0x0800a578                COMP1_IRQHandler
-                0x0800a578                LPTIM1_IRQHandler
-                0x0800a578                I2C4_ER_IRQHandler
-                0x0800a578                DMA2_Stream6_IRQHandler
-                0x0800a578                SAI1_IRQHandler
-                0x0800a578                DMA1_Stream3_IRQHandler
- *fill*         0x0800a57a        0x2 
+                0x0800a64c        0x2 CMakeFiles/TMC2209.dir/startup_stm32h750xx.s.obj
+                0x0800a64c                RTC_Alarm_IRQHandler
+                0x0800a64c                HASH_RNG_IRQHandler
+                0x0800a64c                TIM8_CC_IRQHandler
+                0x0800a64c                HRTIM1_Master_IRQHandler
+                0x0800a64c                SPI4_IRQHandler
+                0x0800a64c                TIM1_CC_IRQHandler
+                0x0800a64c                BDMA_Channel6_IRQHandler
+                0x0800a64c                DMA2_Stream5_IRQHandler
+                0x0800a64c                HRTIM1_FLT_IRQHandler
+                0x0800a64c                JPEG_IRQHandler
+                0x0800a64c                DMA1_Stream5_IRQHandler
+                0x0800a64c                BDMA_Channel1_IRQHandler
+                0x0800a64c                HRTIM1_TIMD_IRQHandler
+                0x0800a64c                TAMP_STAMP_IRQHandler
+                0x0800a64c                EXTI3_IRQHandler
+                0x0800a64c                LPTIM4_IRQHandler
+                0x0800a64c                TIM8_TRG_COM_TIM14_IRQHandler
+                0x0800a64c                LPTIM2_IRQHandler
+                0x0800a64c                DFSDM1_FLT1_IRQHandler
+                0x0800a64c                DMAMUX2_OVR_IRQHandler
+                0x0800a64c                TIM8_UP_TIM13_IRQHandler
+                0x0800a64c                I2C3_ER_IRQHandler
+                0x0800a64c                DFSDM1_FLT2_IRQHandler
+                0x0800a64c                MDMA_IRQHandler
+                0x0800a64c                LPTIM3_IRQHandler
+                0x0800a64c                HSEM1_IRQHandler
+                0x0800a64c                I2C2_EV_IRQHandler
+                0x0800a64c                DMA1_Stream2_IRQHandler
+                0x0800a64c                FPU_IRQHandler
+                0x0800a64c                OTG_HS_WKUP_IRQHandler
+                0x0800a64c                FDCAN1_IT1_IRQHandler
+                0x0800a64c                LTDC_ER_IRQHandler
+                0x0800a64c                DMA2_Stream2_IRQHandler
+                0x0800a64c                HRTIM1_TIME_IRQHandler
+                0x0800a64c                SPI1_IRQHandler
+                0x0800a64c                TIM6_DAC_IRQHandler
+                0x0800a64c                DCMI_IRQHandler
+                0x0800a64c                HRTIM1_TIMC_IRQHandler
+                0x0800a64c                DMA2_Stream3_IRQHandler
+                0x0800a64c                SAI2_IRQHandler
+                0x0800a64c                DFSDM1_FLT3_IRQHandler
+                0x0800a64c                TIM17_IRQHandler
+                0x0800a64c                BDMA_Channel7_IRQHandler
+                0x0800a64c                CRYP_IRQHandler
+                0x0800a64c                LPTIM5_IRQHandler
+                0x0800a64c                UART5_IRQHandler
+                0x0800a64c                ADC3_IRQHandler
+                0x0800a64c                DMA2_Stream0_IRQHandler
+                0x0800a64c                TIM4_IRQHandler
+                0x0800a64c                BDMA_Channel2_IRQHandler
+                0x0800a64c                QUADSPI_IRQHandler
+                0x0800a64c                I2C1_EV_IRQHandler
+                0x0800a64c                DMA1_Stream6_IRQHandler
+                0x0800a64c                DMAMUX1_OVR_IRQHandler
+                0x0800a64c                DMA1_Stream1_IRQHandler
+                0x0800a64c                TIM16_IRQHandler
+                0x0800a64c                BDMA_Channel5_IRQHandler
+                0x0800a64c                TIM3_IRQHandler
+                0x0800a64c                RCC_IRQHandler
+                0x0800a64c                TIM8_BRK_TIM12_IRQHandler
+                0x0800a64c                TIM1_TRG_COM_IRQHandler
+                0x0800a64c                Default_Handler
+                0x0800a64c                ECC_IRQHandler
+                0x0800a64c                CEC_IRQHandler
+                0x0800a64c                EXTI15_10_IRQHandler
+                0x0800a64c                BDMA_Channel0_IRQHandler
+                0x0800a64c                ADC_IRQHandler
+                0x0800a64c                DMA1_Stream7_IRQHandler
+                0x0800a64c                HRTIM1_TIMA_IRQHandler
+                0x0800a64c                SPI5_IRQHandler
+                0x0800a64c                TIM7_IRQHandler
+                0x0800a64c                SDMMC1_IRQHandler
+                0x0800a64c                TIM5_IRQHandler
+                0x0800a64c                DMA2_Stream7_IRQHandler
+                0x0800a64c                TIM15_IRQHandler
+                0x0800a64c                PVD_AVD_IRQHandler
+                0x0800a64c                I2C3_EV_IRQHandler
+                0x0800a64c                EXTI9_5_IRQHandler
+                0x0800a64c                RTC_WKUP_IRQHandler
+                0x0800a64c                LTDC_IRQHandler
+                0x0800a64c                SAI3_IRQHandler
+                0x0800a64c                ETH_WKUP_IRQHandler
+                0x0800a64c                SPDIF_RX_IRQHandler
+                0x0800a64c                SPI2_IRQHandler
+                0x0800a64c                OTG_HS_EP1_IN_IRQHandler
+                0x0800a64c                DMA1_Stream0_IRQHandler
+                0x0800a64c                CRS_IRQHandler
+                0x0800a64c                HRTIM1_TIMB_IRQHandler
+                0x0800a64c                FDCAN2_IT1_IRQHandler
+                0x0800a64c                ETH_IRQHandler
+                0x0800a64c                TIM1_UP_IRQHandler
+                0x0800a64c                BDMA_Channel4_IRQHandler
+                0x0800a64c                OTG_HS_EP1_OUT_IRQHandler
+                0x0800a64c                WWDG_IRQHandler
+                0x0800a64c                SPI6_IRQHandler
+                0x0800a64c                MDIOS_IRQHandler
+                0x0800a64c                I2C4_EV_IRQHandler
+                0x0800a64c                FDCAN2_IT0_IRQHandler
+                0x0800a64c                LPUART1_IRQHandler
+                0x0800a64c                FDCAN1_IT0_IRQHandler
+                0x0800a64c                TIM2_IRQHandler
+                0x0800a64c                OTG_FS_WKUP_IRQHandler
+                0x0800a64c                OTG_HS_IRQHandler
+                0x0800a64c                DMA2D_IRQHandler
+                0x0800a64c                TIM1_BRK_IRQHandler
+                0x0800a64c                EXTI1_IRQHandler
+                0x0800a64c                SDMMC2_IRQHandler
+                0x0800a64c                OTG_FS_EP1_OUT_IRQHandler
+                0x0800a64c                BDMA_Channel3_IRQHandler
+                0x0800a64c                UART7_IRQHandler
+                0x0800a64c                MDIOS_WKUP_IRQHandler
+                0x0800a64c                DFSDM1_FLT0_IRQHandler
+                0x0800a64c                SAI4_IRQHandler
+                0x0800a64c                I2C2_ER_IRQHandler
+                0x0800a64c                DMA2_Stream1_IRQHandler
+                0x0800a64c                FLASH_IRQHandler
+                0x0800a64c                DMA2_Stream4_IRQHandler
+                0x0800a64c                OTG_FS_IRQHandler
+                0x0800a64c                SPI3_IRQHandler
+                0x0800a64c                WAKEUP_PIN_IRQHandler
+                0x0800a64c                DMA1_Stream4_IRQHandler
+                0x0800a64c                OTG_FS_EP1_IN_IRQHandler
+                0x0800a64c                I2C1_ER_IRQHandler
+                0x0800a64c                FMC_IRQHandler
+                0x0800a64c                FDCAN_CAL_IRQHandler
+                0x0800a64c                SWPMI1_IRQHandler
+                0x0800a64c                COMP1_IRQHandler
+                0x0800a64c                LPTIM1_IRQHandler
+                0x0800a64c                I2C4_ER_IRQHandler
+                0x0800a64c                DMA2_Stream6_IRQHandler
+                0x0800a64c                SAI1_IRQHandler
+                0x0800a64c                DMA1_Stream3_IRQHandler
+ *fill*         0x0800a64e        0x2 
  .text.__udivmoddi4
-                0x0800a57c      0x2bc E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libgcc.a(_udivmoddi4.o)
-                0x0800a57c                __udivmoddi4
- .text.__errno  0x0800a838        0xc E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-errno.o)
-                0x0800a838                __errno
- *fill*         0x0800a844        0x4 
- .text.atan     0x0800a848      0x204 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-s_atan.o)
-                0x0800a848                atan
- *fill*         0x0800aa4c        0x4 
- .text.cos      0x0800aa50       0x80 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-s_cos.o)
-                0x0800aa50                cos
- .text.fabs     0x0800aad0       0x10 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-s_fabs.o)
-                0x0800aad0                fabs
- .text.sin      0x0800aae0       0x80 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-s_sin.o)
-                0x0800aae0                sin
- .text.tanhf    0x0800ab60       0xf8 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-sf_tanh.o)
-                0x0800ab60                tanhf
- .text.expm1f   0x0800ac58      0x26c E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-sf_expm1.o)
-                0x0800ac58                expm1f
+                0x0800a650      0x2bc E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libgcc.a(_udivmoddi4.o)
+                0x0800a650                __udivmoddi4
+ .text.__errno  0x0800a90c        0xc E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-errno.o)
+                0x0800a90c                __errno
+ .text.atan     0x0800a918      0x204 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-s_atan.o)
+                0x0800a918                atan
+ *fill*         0x0800ab1c        0x4 
+ .text.cos      0x0800ab20       0x80 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-s_cos.o)
+                0x0800ab20                cos
+ .text.fabs     0x0800aba0       0x10 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-s_fabs.o)
+                0x0800aba0                fabs
+ .text.sin      0x0800abb0       0x80 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-s_sin.o)
+                0x0800abb0                sin
+ .text.tanhf    0x0800ac30       0xf8 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-sf_tanh.o)
+                0x0800ac30                tanhf
+ .text.expm1f   0x0800ad28      0x26c E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-sf_expm1.o)
+                0x0800ad28                expm1f
  .text.with_errnof
-                0x0800aec4       0x1c E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-math_errf.o)
- .text.xflowf   0x0800aee0       0x20 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-math_errf.o)
+                0x0800af94       0x1c E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-math_errf.o)
+ .text.xflowf   0x0800afb0       0x20 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-math_errf.o)
  .text.__math_oflowf
-                0x0800af00        0xc E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-math_errf.o)
-                0x0800af00                __math_oflowf
- *fill*         0x0800af0c        0x4 
+                0x0800afd0        0xc E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-math_errf.o)
+                0x0800afd0                __math_oflowf
+ *fill*         0x0800afdc        0x4 
  .text.__kernel_cos
-                0x0800af10      0x130 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-k_cos.o)
-                0x0800af10                __kernel_cos
+                0x0800afe0      0x130 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-k_cos.o)
+                0x0800afe0                __kernel_cos
  .text.__kernel_sin
-                0x0800b040       0xb0 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-k_sin.o)
-                0x0800b040                __kernel_sin
+                0x0800b110       0xb0 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-k_sin.o)
+                0x0800b110                __kernel_sin
  .text.__ieee754_rem_pio2
-                0x0800b0f0      0x29c E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-e_rem_pio2.o)
-                0x0800b0f0                __ieee754_rem_pio2
- .text.fabsf    0x0800b38c       0x10 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-sf_fabs.o)
-                0x0800b38c                fabsf
- *fill*         0x0800b39c        0x4 
+                0x0800b1c0      0x29c E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-e_rem_pio2.o)
+                0x0800b1c0                __ieee754_rem_pio2
+ .text.fabsf    0x0800b45c       0x10 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-sf_fabs.o)
+                0x0800b45c                fabsf
+ *fill*         0x0800b46c        0x4 
  .text.__kernel_rem_pio2
-                0x0800b3a0      0x678 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-k_rem_pio2.o)
-                0x0800b3a0                __kernel_rem_pio2
- .text.scalbn   0x0800ba18      0x104 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-s_scalbn.o)
-                0x0800ba18                scalbn
- *fill*         0x0800bb1c        0x4 
- .text.floor    0x0800bb20      0x118 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-s_floor.o)
-                0x0800bb20                floor
+                0x0800b470      0x678 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-k_rem_pio2.o)
+                0x0800b470                __kernel_rem_pio2
+ .text.scalbn   0x0800bae8      0x104 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-s_scalbn.o)
+                0x0800bae8                scalbn
+ *fill*         0x0800bbec        0x4 
+ .text.floor    0x0800bbf0      0x118 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-s_floor.o)
+                0x0800bbf0                floor
  *(.glue_7)
- .glue_7        0x0800bc38        0x0 linker stubs
+ .glue_7        0x0800bd08        0x0 linker stubs
  *(.glue_7t)
- .glue_7t       0x0800bc38        0x0 linker stubs
+ .glue_7t       0x0800bd08        0x0 linker stubs
  *(.eh_frame)
- .eh_frame      0x0800bc38        0x0 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard/crtbegin.o
+ .eh_frame      0x0800bd08        0x0 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard/crtbegin.o
  *(.init)
- .init          0x0800bc38        0x4 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard/crti.o
-                0x0800bc38                _init
- .init          0x0800bc3c        0x8 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard/crtn.o
+ .init          0x0800bd08        0x4 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard/crti.o
+                0x0800bd08                _init
+ .init          0x0800bd0c        0x8 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard/crtn.o
  *(.fini)
- .fini          0x0800bc44        0x4 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard/crti.o
-                0x0800bc44                _fini
- .fini          0x0800bc48        0x8 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard/crtn.o
-                0x0800bc50                        . = ALIGN (0x4)
-                0x0800bc50                        _etext = .
+ .fini          0x0800bd14        0x4 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard/crti.o
+                0x0800bd14                _fini
+ .fini          0x0800bd18        0x8 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard/crtn.o
+                0x0800bd20                        . = ALIGN (0x4)
+                0x0800bd20                        _etext = .
 
-.vfp11_veneer   0x0800bc50        0x0
- .vfp11_veneer  0x0800bc50        0x0 linker stubs
+.vfp11_veneer   0x0800bd20        0x0
+ .vfp11_veneer  0x0800bd20        0x0 linker stubs
 
-.v4_bx          0x0800bc50        0x0
- .v4_bx         0x0800bc50        0x0 linker stubs
+.v4_bx          0x0800bd20        0x0
+ .v4_bx         0x0800bd20        0x0 linker stubs
 
-.iplt           0x0800bc50        0x0
- .iplt          0x0800bc50        0x0 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard/crtbegin.o
+.iplt           0x0800bd20        0x0
+ .iplt          0x0800bd20        0x0 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard/crtbegin.o
 
-.rodata         0x0800bc50      0xb20
-                0x0800bc50                        . = ALIGN (0x4)
+.rodata         0x0800bd20     0x42b8
+                0x0800bd20                        . = ALIGN (0x4)
  *(.rodata)
- .rodata        0x0800bc50       0x8c CMakeFiles/TMC2209.dir/User/Zhangdatou.c.obj
- .rodata        0x0800bcdc       0x2a CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+ .rodata        0x0800bd20       0x8c CMakeFiles/TMC2209.dir/User/Zhangdatou.c.obj
+ .rodata        0x0800bdac       0x2a CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
  *(.rodata*)
- *fill*         0x0800bd06        0x2 
- .rodata.F6x8   0x0800bd08      0x228 CMakeFiles/TMC2209.dir/User/OLED.c.obj
-                0x0800bd08                F6x8
- .rodata.F8X16  0x0800bf30      0x5e0 CMakeFiles/TMC2209.dir/User/OLED.c.obj
-                0x0800bf30                F8X16
+ *fill*         0x0800bdd6        0x2 
+ .rodata.contour_0
+                0x0800bdd8       0x98 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800bdd8                contour_0
+ .rodata.contour_1
+                0x0800be70       0x30 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800be70                contour_1
+ .rodata.contour_2
+                0x0800bea0       0x88 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800bea0                contour_2
+ .rodata.contour_3
+                0x0800bf28       0x30 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800bf28                contour_3
+ .rodata.contour_4
+                0x0800bf58       0x90 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800bf58                contour_4
+ .rodata.contour_5
+                0x0800bfe8       0x90 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800bfe8                contour_5
+ .rodata.contour_6
+                0x0800c078       0x38 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800c078                contour_6
+ .rodata.contour_7
+                0x0800c0b0       0x40 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800c0b0                contour_7
+ .rodata.contour_8
+                0x0800c0f0       0x90 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800c0f0                contour_8
+ .rodata.contour_9
+                0x0800c180       0x40 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800c180                contour_9
+ .rodata.contour_10
+                0x0800c1c0       0x48 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800c1c0                contour_10
+ .rodata.contour_11
+                0x0800c208       0x48 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800c208                contour_11
+ .rodata.contour_12
+                0x0800c250       0x68 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800c250                contour_12
+ .rodata.contour_13
+                0x0800c2b8       0x88 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800c2b8                contour_13
+ .rodata.contour_14
+                0x0800c340       0x80 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800c340                contour_14
+ .rodata.contour_15
+                0x0800c3c0       0x88 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800c3c0                contour_15
+ .rodata.contour_16
+                0x0800c448       0x40 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800c448                contour_16
+ .rodata.contour_17
+                0x0800c488       0xb0 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800c488                contour_17
+ .rodata.contour_18
+                0x0800c538       0x38 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800c538                contour_18
+ .rodata.contour_19
+                0x0800c570       0x80 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800c570                contour_19
+ .rodata.contour_20
+                0x0800c5f0       0x40 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800c5f0                contour_20
+ .rodata.contour_21
+                0x0800c630       0xb0 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800c630                contour_21
+ .rodata.contour_22
+                0x0800c6e0       0x58 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800c6e0                contour_22
+ .rodata.contour_23
+                0x0800c738       0x20 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800c738                contour_23
+ .rodata.contour_24
+                0x0800c758       0x98 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800c758                contour_24
+ .rodata.contour_25
+                0x0800c7f0       0x40 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800c7f0                contour_25
+ .rodata.contour_26
+                0x0800c830       0x60 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800c830                contour_26
+ .rodata.contour_27
+                0x0800c890       0x60 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800c890                contour_27
+ .rodata.contour_28
+                0x0800c8f0       0x50 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800c8f0                contour_28
+ .rodata.contour_29
+                0x0800c940       0xa8 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800c940                contour_29
+ .rodata.contour_30
+                0x0800c9e8       0x30 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800c9e8                contour_30
+ .rodata.contour_31
+                0x0800ca18       0x98 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800ca18                contour_31
+ .rodata.contour_32
+                0x0800cab0       0x30 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800cab0                contour_32
+ .rodata.contour_33
+                0x0800cae0       0xd8 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800cae0                contour_33
+ .rodata.contour_34
+                0x0800cbb8       0x68 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800cbb8                contour_34
+ .rodata.contour_35
+                0x0800cc20       0x50 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800cc20                contour_35
+ .rodata.contour_36
+                0x0800cc70       0x40 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800cc70                contour_36
+ .rodata.contour_37
+                0x0800ccb0       0x80 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800ccb0                contour_37
+ .rodata.contour_38
+                0x0800cd30       0x28 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800cd30                contour_38
+ .rodata.contour_39
+                0x0800cd58       0x98 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800cd58                contour_39
+ .rodata.contour_40
+                0x0800cdf0       0x30 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800cdf0                contour_40
+ .rodata.contour_41
+                0x0800ce20       0x28 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800ce20                contour_41
+ .rodata.contour_42
+                0x0800ce48       0x28 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800ce48                contour_42
+ .rodata.contour_43
+                0x0800ce70       0x28 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800ce70                contour_43
+ .rodata.contour_44
+                0x0800ce98       0xb0 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800ce98                contour_44
+ .rodata.contour_45
+                0x0800cf48       0x40 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800cf48                contour_45
+ .rodata.contour_46
+                0x0800cf88       0x70 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800cf88                contour_46
+ .rodata.contour_47
+                0x0800cff8       0xc8 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800cff8                contour_47
+ .rodata.contour_48
+                0x0800d0c0      0x168 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800d0c0                contour_48
+ .rodata.contour_49
+                0x0800d228      0x188 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800d228                contour_49
+ .rodata.contour_50
+                0x0800d3b0       0x88 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800d3b0                contour_50
+ .rodata.contour_51
+                0x0800d438       0x30 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800d438                contour_51
+ .rodata.contour_52
+                0x0800d468      0x138 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800d468                contour_52
+ .rodata.contour_53
+                0x0800d5a0       0x88 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800d5a0                contour_53
+ .rodata.contour_54
+                0x0800d628       0x60 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800d628                contour_54
+ .rodata.contour_55
+                0x0800d688       0xa8 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800d688                contour_55
+ .rodata.contour_56
+                0x0800d730       0xe0 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800d730                contour_56
+ .rodata.contour_57
+                0x0800d810       0x28 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800d810                contour_57
+ .rodata.contour_58
+                0x0800d838       0xa0 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800d838                contour_58
+ .rodata.contour_59
+                0x0800d8d8       0x38 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800d8d8                contour_59
+ .rodata.contour_60
+                0x0800d910       0x30 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800d910                contour_60
+ .rodata.contour_61
+                0x0800d940       0xd8 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800d940                contour_61
+ .rodata.contour_62
+                0x0800da18       0xa8 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800da18                contour_62
+ .rodata.contour_63
+                0x0800dac0       0xf8 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800dac0                contour_63
+ .rodata.contour_64
+                0x0800dbb8       0x60 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800dbb8                contour_64
+ .rodata.contour_65
+                0x0800dc18       0x40 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800dc18                contour_65
+ .rodata.contour_66
+                0x0800dc58       0x88 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800dc58                contour_66
+ .rodata.contour_67
+                0x0800dce0       0x68 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800dce0                contour_67
+ .rodata.contour_68
+                0x0800dd48       0x50 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800dd48                contour_68
+ .rodata.contour_69
+                0x0800dd98       0x80 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800dd98                contour_69
+ .rodata.contour_70
+                0x0800de18       0x30 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800de18                contour_70
+ .rodata.contour_71
+                0x0800de48       0x30 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800de48                contour_71
+ .rodata.contour_72
+                0x0800de78       0x70 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800de78                contour_72
+ .rodata.contour_73
+                0x0800dee8       0xd0 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800dee8                contour_73
+ .rodata.contour_74
+                0x0800dfb8       0x28 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800dfb8                contour_74
+ .rodata.contour_75
+                0x0800dfe0       0x70 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800dfe0                contour_75
+ .rodata.contour_76
+                0x0800e050       0x80 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800e050                contour_76
+ .rodata.contour_77
+                0x0800e0d0       0x58 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800e0d0                contour_77
+ .rodata.contour_78
+                0x0800e128       0x90 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800e128                contour_78
+ .rodata.contour_79
+                0x0800e1b8       0x30 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800e1b8                contour_79
+ .rodata.contour_80
+                0x0800e1e8       0x40 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800e1e8                contour_80
+ .rodata.contour_81
+                0x0800e228       0x38 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800e228                contour_81
+ .rodata.contour_82
+                0x0800e260      0x110 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800e260                contour_82
+ .rodata.contour_83
+                0x0800e370       0x98 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800e370                contour_83
+ .rodata.contour_84
+                0x0800e408       0x38 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800e408                contour_84
+ .rodata.contour_85
+                0x0800e440       0xb0 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800e440                contour_85
+ .rodata.contour_86
+                0x0800e4f0       0x78 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800e4f0                contour_86
+ .rodata.contour_87
+                0x0800e568       0x70 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800e568                contour_87
+ .rodata.contour_88
+                0x0800e5d8      0x238 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800e5d8                contour_88
+ .rodata.contour_89
+                0x0800e810       0x30 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800e810                contour_89
+ .rodata.contour_90
+                0x0800e840       0x30 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800e840                contour_90
+ .rodata.contour_91
+                0x0800e870       0x20 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800e870                contour_91
+ .rodata.contour_92
+                0x0800e890      0x138 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800e890                contour_92
+ .rodata.contour_93
+                0x0800e9c8       0x78 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800e9c8                contour_93
+ .rodata.contour_94
+                0x0800ea40       0x90 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800ea40                contour_94
+ .rodata.contour_95
+                0x0800ead0      0x228 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800ead0                contour_95
+ .rodata.contour_96
+                0x0800ecf8      0x418 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800ecf8                contour_96
+ .rodata.contour_97
+                0x0800f110      0x108 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800f110                contour_97
+ .rodata.contour_98
+                0x0800f218       0x88 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800f218                contour_98
+ .rodata.contour_99
+                0x0800f2a0       0xa0 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800f2a0                contour_99
+ .rodata.contour_100
+                0x0800f340       0x98 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800f340                contour_100
+ .rodata.contour_lengths
+                0x0800f3d8      0x194 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x0800f3d8                contour_lengths
+ .rodata.F6x8   0x0800f56c      0x228 CMakeFiles/TMC2209.dir/User/OLED.c.obj
+                0x0800f56c                F6x8
+ .rodata.F8X16  0x0800f794      0x5e0 CMakeFiles/TMC2209.dir/User/OLED.c.obj
+                0x0800f794                F8X16
  .rodata.UARTPrescTable
-                0x0800c510       0x18 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
-                0x0800c510                UARTPrescTable
+                0x0800fd74       0x18 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+                0x0800fd74                UARTPrescTable
  .rodata.numerator.1
-                0x0800c528        0x8 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
+                0x0800fd8c        0x8 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
  .rodata.denominator.0
-                0x0800c530        0x8 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
+                0x0800fd94        0x8 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
  .rodata.D1CorePrescTable
-                0x0800c538       0x10 CMakeFiles/TMC2209.dir/Core/Src/system_stm32h7xx.c.obj
-                0x0800c538                D1CorePrescTable
+                0x0800fd9c       0x10 CMakeFiles/TMC2209.dir/Core/Src/system_stm32h7xx.c.obj
+                0x0800fd9c                D1CorePrescTable
+ *fill*         0x0800fdac        0x4 
  .rodata.atanlo
-                0x0800c548       0x20 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-s_atan.o)
+                0x0800fdb0       0x20 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-s_atan.o)
  .rodata.atanhi
-                0x0800c568       0x20 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-s_atan.o)
- .rodata.tiny   0x0800c588        0x4 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-sf_tanh.o)
- .rodata.two    0x0800c58c        0x4 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-sf_tanh.o)
- .rodata.one    0x0800c590        0x4 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-sf_tanh.o)
+                0x0800fdd0       0x20 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-s_atan.o)
+ .rodata.tiny   0x0800fdf0        0x4 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-sf_tanh.o)
+ .rodata.two    0x0800fdf4        0x4 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-sf_tanh.o)
+ .rodata.one    0x0800fdf8        0x4 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-sf_tanh.o)
  .rodata.npio2_hw
-                0x0800c594       0x80 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-e_rem_pio2.o)
+                0x0800fdfc       0x80 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-e_rem_pio2.o)
  .rodata.two_over_pi
-                0x0800c614      0x108 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-e_rem_pio2.o)
- *fill*         0x0800c71c        0x4 
- .rodata.PIo2   0x0800c720       0x40 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-k_rem_pio2.o)
+                0x0800fe7c      0x108 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-e_rem_pio2.o)
+ *fill*         0x0800ff84        0x4 
+ .rodata.PIo2   0x0800ff88       0x40 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-k_rem_pio2.o)
  .rodata.init_jk
-                0x0800c760       0x10 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-k_rem_pio2.o)
-                0x0800c770                        . = ALIGN (0x4)
+                0x0800ffc8       0x10 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libm.a(libm_a-k_rem_pio2.o)
+                0x0800ffd8                        . = ALIGN (0x4)
 
 .ARM.extab
  *(.ARM.extab* .gnu.linkonce.armextab.*)
 
-.ARM            0x0800c770        0x8
-                0x0800c770                        __exidx_start = .
+.ARM            0x0800ffd8        0x8
+                0x0800ffd8                        __exidx_start = .
  *(.ARM.exidx*)
  .ARM.exidx.text.__udivmoddi4
-                0x0800c770        0x8 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libgcc.a(_udivmoddi4.o)
-                0x0800c778                        __exidx_end = .
+                0x0800ffd8        0x8 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libgcc.a(_udivmoddi4.o)
+                0x0800ffe0                        __exidx_end = .
 
-.preinit_array  0x0800c778        0x0
-                0x0800c778                        PROVIDE (__preinit_array_start = .)
+.preinit_array  0x0800ffe0        0x0
+                0x0800ffe0                        PROVIDE (__preinit_array_start = .)
  *(.preinit_array*)
-                0x0800c778                        PROVIDE (__preinit_array_end = .)
+                0x0800ffe0                        PROVIDE (__preinit_array_end = .)
 
-.init_array     0x0800c778        0x8
-                0x0800c778                        PROVIDE (__init_array_start = .)
+.init_array     0x0800ffe0        0x8
+                0x0800ffe0                        PROVIDE (__init_array_start = .)
  *(SORT_BY_NAME(.init_array.*))
  *(.init_array*)
- .init_array    0x0800c778        0x4 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard/crtbegin.o
- .init_array    0x0800c77c        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x0800c780                        PROVIDE (__init_array_end = .)
+ .init_array    0x0800ffe0        0x4 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard/crtbegin.o
+ .init_array    0x0800ffe4        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x0800ffe8                        PROVIDE (__init_array_end = .)
 
-.fini_array     0x0800c780        0x4
+.fini_array     0x0800ffe8        0x4
                 [!provide]                        PROVIDE (__fini_array_start = .)
  *(SORT_BY_NAME(.fini_array.*))
  *(.fini_array*)
- .fini_array    0x0800c780        0x4 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard/crtbegin.o
+ .fini_array    0x0800ffe8        0x4 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard/crtbegin.o
                 [!provide]                        PROVIDE (__fini_array_end = .)
-                0x0800c784                        _sidata = LOADADDR (.data)
+                0x0800ffec                        _sidata = LOADADDR (.data)
 
-.rel.dyn        0x0800c784        0x0
- .rel.iplt      0x0800c784        0x0 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard/crtbegin.o
+.rel.dyn        0x0800ffec        0x0
+ .rel.iplt      0x0800ffec        0x0 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard/crtbegin.o
 
-.data           0x24000000      0x1b4 load address 0x0800c784
+.data           0x24000000      0x348 load address 0x0800ffec
                 0x24000000                        . = ALIGN (0x4)
                 0x24000000                        _sdata = .
  *(.data)
@@ -6763,274 +6853,279 @@ LOAD E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/a
  .data._impure_data
                 0x24000004       0x4c E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-impure.o)
                 0x24000004                _impure_data
+ .data.all_contours
+                0x24000050      0x194 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                0x24000050                all_contours
  .data.CMD_Data
-                0x24000050       0x1b CMakeFiles/TMC2209.dir/User/OLED.c.obj
-                0x24000050                CMD_Data
+                0x240001e4       0x1b CMakeFiles/TMC2209.dir/User/OLED.c.obj
+                0x240001e4                CMD_Data
  .data.first_yaw
-                0x2400006b        0x1 CMakeFiles/TMC2209.dir/User/wit.c.obj
+                0x240001ff        0x1 CMakeFiles/TMC2209.dir/User/wit.c.obj
  .data.pul_speed
-                0x2400006c        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x2400006c                pul_speed
- .data.kfpVarx  0x24000070       0x14 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24000070                kfpVarx
- .data.kfpVary  0x24000084       0x14 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24000084                kfpVary
+                0x24000200        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24000200                pul_speed
+ .data.kfpVarx  0x24000204       0x14 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24000204                kfpVarx
+ .data.kfpVary  0x24000218       0x14 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24000218                kfpVary
  .data.laser_control
-                0x24000098        0x1 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24000098                laser_control
- *fill*         0x24000099        0x3 
- .data.exc      0x2400009c        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x2400009c                exc
- .data.eyc      0x240000a0        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x240000a0                eyc
- .data.oexc     0x240000a4        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x240000a4                oexc
- .data.oeyc     0x240000a8        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x240000a8                oeyc
- .data.pidx     0x240000ac       0x48 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x240000ac                pidx
- .data.pidx1    0x240000f4       0x48 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x240000f4                pidx1
- .data.pidxstr  0x2400013c        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x2400013c                pidxstr
- .data.pidy     0x24000140       0x48 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24000140                pidy
+                0x2400022c        0x1 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x2400022c                laser_control
+ *fill*         0x2400022d        0x3 
+ .data.exc      0x24000230        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24000230                exc
+ .data.eyc      0x24000234        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24000234                eyc
+ .data.oexc     0x24000238        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24000238                oexc
+ .data.oeyc     0x2400023c        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x2400023c                oeyc
+ .data.pidx     0x24000240       0x48 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24000240                pidx
+ .data.pidx1    0x24000288       0x48 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24000288                pidx1
+ .data.pidxstr  0x240002d0        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x240002d0                pidxstr
+ .data.pidy     0x240002d4       0x48 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x240002d4                pidy
  .data.angle1_pul
-                0x24000188        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24000188                angle1_pul
+                0x2400031c        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x2400031c                angle1_pul
  .data.angle_pul
-                0x2400018c        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x2400018c                angle_pul
+                0x24000320        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24000320                angle_pul
  .data.dis_para
-                0x24000190       0x10 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24000190                dis_para
+                0x24000324       0x10 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24000324                dis_para
  .data.Tfirstrun
-                0x240001a0        0x1 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
- .data.i.1      0x240001a1        0x1 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
- .data.i.0      0x240001a2        0x1 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
- *fill*         0x240001a3        0x1 
+                0x24000334        0x1 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+ .data.i.1      0x24000335        0x1 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+ .data.i.0      0x24000336        0x1 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+ *fill*         0x24000337        0x1 
  .data.uwTickPrio
-                0x240001a4        0x4 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
-                0x240001a4                uwTickPrio
+                0x24000338        0x4 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+                0x24000338                uwTickPrio
  .data.uwTickFreq
-                0x240001a8        0x1 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
-                0x240001a8                uwTickFreq
- *fill*         0x240001a9        0x3 
+                0x2400033c        0x1 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+                0x2400033c                uwTickFreq
+ *fill*         0x2400033d        0x3 
  .data.SystemCoreClock
-                0x240001ac        0x4 CMakeFiles/TMC2209.dir/Core/Src/system_stm32h7xx.c.obj
-                0x240001ac                SystemCoreClock
+                0x24000340        0x4 CMakeFiles/TMC2209.dir/Core/Src/system_stm32h7xx.c.obj
+                0x24000340                SystemCoreClock
  .data.SystemD2Clock
-                0x240001b0        0x4 CMakeFiles/TMC2209.dir/Core/Src/system_stm32h7xx.c.obj
-                0x240001b0                SystemD2Clock
+                0x24000344        0x4 CMakeFiles/TMC2209.dir/Core/Src/system_stm32h7xx.c.obj
+                0x24000344                SystemD2Clock
  *(.RamFunc)
  *(.RamFunc*)
-                0x240001b4                        . = ALIGN (0x4)
-                0x240001b4                        _edata = .
+                0x24000348                        . = ALIGN (0x4)
+                0x24000348                        _edata = .
 
 .tm_clone_table
-                0x240001b4        0x0 load address 0x0800c938
+                0x24000348        0x0 load address 0x08010334
  .tm_clone_table
-                0x240001b4        0x0 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard/crtbegin.o
+                0x24000348        0x0 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard/crtbegin.o
  .tm_clone_table
-                0x240001b4        0x0 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard/crtend.o
+                0x24000348        0x0 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard/crtend.o
 
-.igot.plt       0x240001b4        0x0 load address 0x0800c938
- .igot.plt      0x240001b4        0x0 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard/crtbegin.o
-                0x240001b4                        . = ALIGN (0x4)
+.igot.plt       0x24000348        0x0 load address 0x08010334
+ .igot.plt      0x24000348        0x0 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard/crtbegin.o
+                0x24000348                        . = ALIGN (0x4)
 
-.bss            0x240001b8     0x3030 load address 0x0800c938
-                0x240001b8                        _sbss = .
-                0x240001b8                        __bss_start__ = _sbss
+.bss            0x24000348     0x3030 load address 0x08010334
+                0x24000348                        _sbss = .
+                0x24000348                        __bss_start__ = _sbss
  *(.bss)
  *(.bss*)
  .bss.completed.1
-                0x240001b8        0x1 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard/crtbegin.o
- *fill*         0x240001b9        0x3 
- .bss.object.0  0x240001bc       0x18 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard/crtbegin.o
- .bss.__sf      0x240001d4      0x138 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-findfp.o)
-                0x240001d4                __sf
- .bss.RXdata_x  0x2400030c        0x1 CMakeFiles/TMC2209.dir/User/Zhangdatou.c.obj
-                0x2400030c                RXdata_x
- .bss.RXdata_y  0x2400030d        0x1 CMakeFiles/TMC2209.dir/User/Zhangdatou.c.obj
-                0x2400030d                RXdata_y
+                0x24000348        0x1 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard/crtbegin.o
+ *fill*         0x24000349        0x3 
+ .bss.object.0  0x2400034c       0x18 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard/crtbegin.o
+ .bss.__sf      0x24000364      0x138 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-findfp.o)
+                0x24000364                __sf
+ .bss.RXdata_x  0x2400049c        0x1 CMakeFiles/TMC2209.dir/User/Zhangdatou.c.obj
+                0x2400049c                RXdata_x
+ .bss.RXdata_y  0x2400049d        0x1 CMakeFiles/TMC2209.dir/User/Zhangdatou.c.obj
+                0x2400049d                RXdata_y
  .bss.motor_x_recall
-                0x2400030e        0x1 CMakeFiles/TMC2209.dir/User/Zhangdatou.c.obj
-                0x2400030e                motor_x_recall
+                0x2400049e        0x1 CMakeFiles/TMC2209.dir/User/Zhangdatou.c.obj
+                0x2400049e                motor_x_recall
  .bss.motor_y_recall
-                0x2400030f        0x1 CMakeFiles/TMC2209.dir/User/Zhangdatou.c.obj
-                0x2400030f                motor_y_recall
+                0x2400049f        0x1 CMakeFiles/TMC2209.dir/User/Zhangdatou.c.obj
+                0x2400049f                motor_y_recall
  .bss.y_uart_stage
-                0x24000310        0x1 CMakeFiles/TMC2209.dir/User/Zhangdatou.c.obj
-                0x24000310                y_uart_stage
- *fill*         0x24000311        0x3 
- .bss.yrxdata   0x24000314        0xa CMakeFiles/TMC2209.dir/User/Zhangdatou.c.obj
-                0x24000314                yrxdata
+                0x240004a0        0x1 CMakeFiles/TMC2209.dir/User/Zhangdatou.c.obj
+                0x240004a0                y_uart_stage
+ *fill*         0x240004a1        0x3 
+ .bss.yrxdata   0x240004a4        0xa CMakeFiles/TMC2209.dir/User/Zhangdatou.c.obj
+                0x240004a4                yrxdata
  .bss.Mencounder
-                0x2400031e        0x2 CMakeFiles/TMC2209.dir/User/Zhangdatou.c.obj
-                0x2400031e                Mencounder
- .bss.i         0x24000320        0x4 CMakeFiles/TMC2209.dir/User/Zhangdatou.c.obj
-                0x24000320                i
+                0x240004ae        0x2 CMakeFiles/TMC2209.dir/User/Zhangdatou.c.obj
+                0x240004ae                Mencounder
+ .bss.i         0x240004b0        0x4 CMakeFiles/TMC2209.dir/User/Zhangdatou.c.obj
+                0x240004b0                i
  .bss.rx_buffer2
-                0x24000324        0x1 CMakeFiles/TMC2209.dir/User/wit.c.obj
-                0x24000324                rx_buffer2
- *fill*         0x24000325        0x3 
+                0x240004b4        0x1 CMakeFiles/TMC2209.dir/User/wit.c.obj
+                0x240004b4                rx_buffer2
+ *fill*         0x240004b5        0x3 
  .bss.frame_buffer
-                0x24000328      0x100 CMakeFiles/TMC2209.dir/User/wit.c.obj
-                0x24000328                frame_buffer
+                0x240004b8      0x100 CMakeFiles/TMC2209.dir/User/wit.c.obj
+                0x240004b8                frame_buffer
  .bss.rx_wit_cnt
-                0x24000428        0x1 CMakeFiles/TMC2209.dir/User/wit.c.obj
-                0x24000428                rx_wit_cnt
- *fill*         0x24000429        0x3 
- .bss.flag_ins  0x2400042c        0x4 CMakeFiles/TMC2209.dir/User/wit.c.obj
-                0x2400042c                flag_ins
- .bss.facc      0x24000430        0x4 CMakeFiles/TMC2209.dir/User/wit.c.obj
-                0x24000430                facc
- .bss.wit_data  0x24000434       0x24 CMakeFiles/TMC2209.dir/User/wit.c.obj
-                0x24000434                wit_data
+                0x240005b8        0x1 CMakeFiles/TMC2209.dir/User/wit.c.obj
+                0x240005b8                rx_wit_cnt
+ *fill*         0x240005b9        0x3 
+ .bss.flag_ins  0x240005bc        0x4 CMakeFiles/TMC2209.dir/User/wit.c.obj
+                0x240005bc                flag_ins
+ .bss.facc      0x240005c0        0x4 CMakeFiles/TMC2209.dir/User/wit.c.obj
+                0x240005c0                facc
+ .bss.wit_data  0x240005c4       0x24 CMakeFiles/TMC2209.dir/User/wit.c.obj
+                0x240005c4                wit_data
  .bss.wit_state
-                0x24000458        0x1 CMakeFiles/TMC2209.dir/User/wit.c.obj
- *fill*         0x24000459        0x3 
- .bss.last_yaw  0x2400045c        0x4 CMakeFiles/TMC2209.dir/User/wit.c.obj
+                0x240005e8        0x1 CMakeFiles/TMC2209.dir/User/wit.c.obj
+ *fill*         0x240005e9        0x3 
+ .bss.last_yaw  0x240005ec        0x4 CMakeFiles/TMC2209.dir/User/wit.c.obj
  .bss.yaw_rounds
-                0x24000460        0x4 CMakeFiles/TMC2209.dir/User/wit.c.obj
+                0x240005f0        0x4 CMakeFiles/TMC2209.dir/User/wit.c.obj
  .bss.tanh_table
-                0x24000464     0x2000 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
- .bss.PC4       0x24002464        0x1 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24002464                PC4
- .bss.PB0       0x24002465        0x1 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24002465                PB0
- .bss.PB2       0x24002466        0x1 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24002466                PB2
- .bss.arrow     0x24002467        0x1 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24002467                arrow
+                0x240005f4     0x2000 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+ .bss.PC4       0x240025f4        0x1 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x240025f4                PC4
+ .bss.PB0       0x240025f5        0x1 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x240025f5                PB0
+ .bss.PB2       0x240025f6        0x1 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x240025f6                PB2
+ .bss.arrow     0x240025f7        0x1 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x240025f7                arrow
  .bss.current_x
-                0x24002468        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24002468                current_x
+                0x240025f8        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x240025f8                current_x
  .bss.current_y
-                0x2400246c        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x2400246c                current_y
+                0x240025fc        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x240025fc                current_y
+ .bss.st        0x24002600        0x1 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24002600                st
  .bss.Maixcam_RX_stage
-                0x24002470        0x1 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24002470                Maixcam_RX_stage
+                0x24002601        0x1 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24002601                Maixcam_RX_stage
  .bss.Maixcam_RX_data
-                0x24002471        0x1 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24002471                Maixcam_RX_data
- *fill*         0x24002472        0x2 
+                0x24002602        0x1 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24002602                Maixcam_RX_data
+ *fill*         0x24002603        0x1 
  .bss.Maixcam_RX_fifo
-                0x24002474      0x7d0 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24002474                Maixcam_RX_fifo
+                0x24002604      0x7d0 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24002604                Maixcam_RX_fifo
  .bss.Maixcam_RX_count
-                0x24002c44        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24002c44                Maixcam_RX_count
+                0x24002dd4        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24002dd4                Maixcam_RX_count
  .bss.g3507_RX_data
-                0x24002c48        0x1 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24002c48                g3507_RX_data
+                0x24002dd8        0x1 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24002dd8                g3507_RX_data
  .bss.g3507_RX_stage
-                0x24002c49        0x1 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24002c49                g3507_RX_stage
- *fill*         0x24002c4a        0x2 
+                0x24002dd9        0x1 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24002dd9                g3507_RX_stage
+ *fill*         0x24002dda        0x2 
  .bss.g3507_RX_fifo
-                0x24002c4c       0x14 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24002c4c                g3507_RX_fifo
+                0x24002ddc       0x14 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24002ddc                g3507_RX_fifo
  .bss.g3507_RX_count
-                0x24002c60        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24002c60                g3507_RX_count
- .bss.nxc1      0x24002c64        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24002c64                nxc1
- .bss.nyc1      0x24002c68        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24002c68                nyc1
- .bss.ridus     0x24002c6c        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24002c6c                ridus
- .bss.enconter  0x24002c70        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24002c70                enconter
- .bss.turn      0x24002c74        0x1 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24002c74                turn
+                0x24002df0        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24002df0                g3507_RX_count
+ .bss.nxc1      0x24002df4        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24002df4                nxc1
+ .bss.nyc1      0x24002df8        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24002df8                nyc1
+ .bss.ridus     0x24002dfc        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24002dfc                ridus
+ .bss.enconter  0x24002e00        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24002e00                enconter
+ .bss.turn      0x24002e04        0x1 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24002e04                turn
  .bss.turn_count
-                0x24002c75        0x1 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24002c75                turn_count
+                0x24002e05        0x1 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24002e05                turn_count
  .bss.control_state
-                0x24002c76        0x1 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24002c76                control_state
- *fill*         0x24002c77        0x1 
+                0x24002e06        0x1 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24002e06                control_state
+ *fill*         0x24002e07        0x1 
  .bss.init_angle_pid
-                0x24002c78        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24002c78                init_angle_pid
+                0x24002e08        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24002e08                init_angle_pid
  .bss.init_acc_pid
-                0x24002c7c        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24002c7c                init_acc_pid
- .bss.nxc       0x24002c80        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24002c80                nxc
- .bss.nyc       0x24002c84        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24002c84                nyc
- .bss.theta1    0x24002c88        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24002c88                theta1
- .bss.excir     0x24002c8c        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24002c8c                excir
- .bss.eycir     0x24002c90        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24002c90                eycir
- .bss.a1        0x24002c94        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24002c94                a1
- .bss.a2        0x24002c98        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24002c98                a2
- .bss.an1       0x24002c9c        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24002c9c                an1
- .bss.enn1      0x24002ca0        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24002ca0                enn1
- .bss.state_qu  0x24002ca4        0x1 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24002ca4                state_qu
- *fill*         0x24002ca5        0x3 
+                0x24002e0c        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24002e0c                init_acc_pid
+ .bss.nxc       0x24002e10        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24002e10                nxc
+ .bss.nyc       0x24002e14        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24002e14                nyc
+ .bss.theta1    0x24002e18        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24002e18                theta1
+ .bss.excir     0x24002e1c        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24002e1c                excir
+ .bss.eycir     0x24002e20        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24002e20                eycir
+ .bss.a1        0x24002e24        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24002e24                a1
+ .bss.a2        0x24002e28        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24002e28                a2
+ .bss.an1       0x24002e2c        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24002e2c                an1
+ .bss.enn1      0x24002e30        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24002e30                enn1
+ .bss.state_qu  0x24002e34        0x1 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24002e34                state_qu
+ *fill*         0x24002e35        0x3 
  .bss.tick_angle_buchang
-                0x24002ca8        0x8 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24002ca8                tick_angle_buchang
+                0x24002e38        0x8 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24002e38                tick_angle_buchang
  .bss.circle_state
-                0x24002cb0        0x1 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24002cb0                circle_state
- *fill*         0x24002cb1        0x3 
- .bss.ennerr    0x24002cb4        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24002cb4                ennerr
- .bss.stage     0x24002cb8        0x1 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24002cb8                stage
- .bss.c         0x24002cb9        0x1 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24002cb9                c
- *fill*         0x24002cba        0x2 
- .bss.feedenn   0x24002cbc        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24002cbc                feedenn
- .bss.enn2      0x24002cc0        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24002cc0                enn2
+                0x24002e40        0x1 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24002e40                circle_state
+ *fill*         0x24002e41        0x3 
+ .bss.ennerr    0x24002e44        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24002e44                ennerr
+ .bss.stage     0x24002e48        0x1 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24002e48                stage
+ .bss.c         0x24002e49        0x1 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24002e49                c
+ *fill*         0x24002e4a        0x2 
+ .bss.feedenn   0x24002e4c        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24002e4c                feedenn
+ .bss.enn2      0x24002e50        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24002e50                enn2
  .bss.laser_ms_tick
-                0x24002cc4        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
-                0x24002cc4                laser_ms_tick
- .bss.hi2c2     0x24002cc8       0x54 CMakeFiles/TMC2209.dir/Core/Src/i2c.c.obj
-                0x24002cc8                hi2c2
- .bss.huart4    0x24002d1c       0xcc CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
-                0x24002d1c                huart4
- .bss.huart8    0x24002de8       0xcc CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
-                0x24002de8                huart8
- .bss.huart1    0x24002eb4       0xcc CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
-                0x24002eb4                huart1
- .bss.huart2    0x24002f80       0xcc CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
-                0x24002f80                huart2
- .bss.huart3    0x2400304c       0xcc CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
-                0x2400304c                huart3
- .bss.huart6    0x24003118       0xcc CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
-                0x24003118                huart6
- .bss.uwTick    0x240031e4        0x4 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
-                0x240031e4                uwTick
+                0x24002e54        0x4 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x24002e54                laser_ms_tick
+ .bss.hi2c2     0x24002e58       0x54 CMakeFiles/TMC2209.dir/Core/Src/i2c.c.obj
+                0x24002e58                hi2c2
+ .bss.huart4    0x24002eac       0xcc CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
+                0x24002eac                huart4
+ .bss.huart8    0x24002f78       0xcc CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
+                0x24002f78                huart8
+ .bss.huart1    0x24003044       0xcc CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
+                0x24003044                huart1
+ .bss.huart2    0x24003110       0xcc CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
+                0x24003110                huart2
+ .bss.huart3    0x240031dc       0xcc CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
+                0x240031dc                huart3
+ .bss.huart6    0x240032a8       0xcc CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
+                0x240032a8                huart6
+ .bss.uwTick    0x24003374        0x4 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+                0x24003374                uwTick
  *(COMMON)
-                0x240031e8                        . = ALIGN (0x4)
-                0x240031e8                        _ebss = .
-                0x240031e8                        __bss_end__ = _ebss
+                0x24003378                        . = ALIGN (0x4)
+                0x24003378                        _ebss = .
+                0x24003378                        __bss_end__ = _ebss
 
 ._user_heap_stack
-                0x240031e8     0x1200 load address 0x0800c938
-                0x240031e8                        . = ALIGN (0x8)
+                0x24003378     0x1200 load address 0x08010334
+                0x24003378                        . = ALIGN (0x8)
                 [!provide]                        PROVIDE (end = .)
-                0x240031e8                        PROVIDE (_end = .)
-                0x240033e8                        . = (. + _Min_Heap_Size)
- *fill*         0x240031e8      0x200 
-                0x240043e8                        . = (. + _Min_Stack_Size)
- *fill*         0x240033e8     0x1000 
-                0x240043e8                        . = ALIGN (0x8)
+                0x24003378                        PROVIDE (_end = .)
+                0x24003578                        . = (. + _Min_Heap_Size)
+ *fill*         0x24003378      0x200 
+                0x24004578                        . = (. + _Min_Stack_Size)
+ *fill*         0x24003578     0x1000 
+                0x24004578                        . = ALIGN (0x8)
 
 /DISCARD/
  libc.a(*)
@@ -7053,63 +7148,65 @@ LOAD E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/a
  .ARM.attributes
                 0x000000e8       0x32 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-init.o)
  .ARM.attributes
-                0x0000011a       0x32 CMakeFiles/TMC2209.dir/User/Kalman.c.obj
+                0x0000011a       0x32 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
  .ARM.attributes
-                0x0000014c       0x32 CMakeFiles/TMC2209.dir/User/Zhangdatou.c.obj
+                0x0000014c       0x32 CMakeFiles/TMC2209.dir/User/Kalman.c.obj
  .ARM.attributes
-                0x0000017e       0x32 CMakeFiles/TMC2209.dir/User/OLED.c.obj
+                0x0000017e       0x32 CMakeFiles/TMC2209.dir/User/Zhangdatou.c.obj
  .ARM.attributes
-                0x000001b0       0x32 CMakeFiles/TMC2209.dir/User/wit.c.obj
+                0x000001b0       0x32 CMakeFiles/TMC2209.dir/User/OLED.c.obj
  .ARM.attributes
-                0x000001e2       0x32 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x000001e2       0x32 CMakeFiles/TMC2209.dir/User/wit.c.obj
  .ARM.attributes
-                0x00000214       0x32 CMakeFiles/TMC2209.dir/Core/Src/gpio.c.obj
+                0x00000214       0x32 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
  .ARM.attributes
-                0x00000246       0x32 CMakeFiles/TMC2209.dir/Core/Src/i2c.c.obj
+                0x00000246       0x32 CMakeFiles/TMC2209.dir/Core/Src/gpio.c.obj
  .ARM.attributes
-                0x00000278       0x32 CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
+                0x00000278       0x32 CMakeFiles/TMC2209.dir/Core/Src/i2c.c.obj
  .ARM.attributes
-                0x000002aa       0x32 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
+                0x000002aa       0x32 CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
  .ARM.attributes
-                0x000002dc       0x32 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+                0x000002dc       0x32 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
  .ARM.attributes
-                0x0000030e       0x32 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+                0x0000030e       0x32 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_hal_msp.c.obj
  .ARM.attributes
-                0x00000340       0x32 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+                0x00000340       0x32 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
  .ARM.attributes
-                0x00000372       0x32 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+                0x00000372       0x32 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
  .ARM.attributes
-                0x000003a4       0x32 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+                0x000003a4       0x32 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
  .ARM.attributes
-                0x000003d6       0x32 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+                0x000003d6       0x32 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
  .ARM.attributes
-                0x00000408       0x32 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+                0x00000408       0x32 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
  .ARM.attributes
-                0x0000043a       0x32 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+                0x0000043a       0x32 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
  .ARM.attributes
-                0x0000046c       0x32 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+                0x0000046c       0x32 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
  .ARM.attributes
-                0x0000049e       0x32 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
+                0x0000049e       0x32 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
  .ARM.attributes
-                0x000004d0       0x32 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+                0x000004d0       0x32 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
  .ARM.attributes
-                0x00000502       0x32 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
+                0x00000502       0x32 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
  .ARM.attributes
-                0x00000534       0x32 CMakeFiles/TMC2209.dir/Core/Src/system_stm32h7xx.c.obj
+                0x00000534       0x32 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
  .ARM.attributes
-                0x00000566       0x21 CMakeFiles/TMC2209.dir/startup_stm32h750xx.s.obj
+                0x00000566       0x32 CMakeFiles/TMC2209.dir/Core/Src/system_stm32h7xx.c.obj
  .ARM.attributes
-                0x00000587       0x20 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libgcc.a(_aeabi_uldivmod.o)
+                0x00000598       0x21 CMakeFiles/TMC2209.dir/startup_stm32h750xx.s.obj
  .ARM.attributes
-                0x000005a7       0x32 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libgcc.a(_udivmoddi4.o)
+                0x000005b9       0x20 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libgcc.a(_aeabi_uldivmod.o)
  .ARM.attributes
-                0x000005d9       0x20 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libgcc.a(_dvmd_tls.o)
+                0x000005d9       0x32 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libgcc.a(_udivmoddi4.o)
  .ARM.attributes
-                0x000005f9       0x32 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-errno.o)
+                0x0000060b       0x20 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libgcc.a(_dvmd_tls.o)
  .ARM.attributes
-                0x0000062b       0x32 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard/crtend.o
+                0x0000062b       0x32 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-errno.o)
  .ARM.attributes
-                0x0000065d       0x20 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard/crtn.o
+                0x0000065d       0x32 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard/crtend.o
+ .ARM.attributes
+                0x0000068f       0x20 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard/crtn.o
 OUTPUT(TMC2209.elf elf32-littlearm)
 LOAD linker stubs
 LOAD E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libc.a
@@ -7146,103 +7243,228 @@ LOAD E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/a
  .debug_frame   0x00004828       0x34 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libgcc.a(_udivmoddi4.o)
  .debug_frame   0x0000485c       0x20 E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-errno.o)
 
-.debug_info     0x00000000    0x19b45
- .debug_info    0x00000000      0x116 CMakeFiles/TMC2209.dir/User/Kalman.c.obj
- .debug_info    0x00000116      0xbee CMakeFiles/TMC2209.dir/User/Zhangdatou.c.obj
- .debug_info    0x00000d04      0xb88 CMakeFiles/TMC2209.dir/User/OLED.c.obj
- .debug_info    0x0000188c      0xbe2 CMakeFiles/TMC2209.dir/User/wit.c.obj
- .debug_info    0x0000246e     0x2b1c CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
- .debug_info    0x00004f8a      0xa30 CMakeFiles/TMC2209.dir/Core/Src/gpio.c.obj
- .debug_info    0x000059ba     0x1009 CMakeFiles/TMC2209.dir/Core/Src/i2c.c.obj
- .debug_info    0x000069c3     0x175b CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
- .debug_info    0x0000811e      0x9f5 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
- .debug_info    0x00008b13      0x464 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_hal_msp.c.obj
- .debug_info    0x00008f77     0x10b7 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
- .debug_info    0x0000a02e      0xe6a CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
- .debug_info    0x0000ae98     0x1225 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
- .debug_info    0x0000c0bd      0xc5a CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
- .debug_info    0x0000cd17      0xc31 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
- .debug_info    0x0000d948     0x1012 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
- .debug_info    0x0000e95a     0x1541 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
- .debug_info    0x0000fe9b     0x22c9 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
- .debug_info    0x00012164      0xd84 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
- .debug_info    0x00012ee8     0x4dd1 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
- .debug_info    0x00017cb9     0x10aa CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
- .debug_info    0x00018d63      0xdb2 CMakeFiles/TMC2209.dir/Core/Src/system_stm32h7xx.c.obj
- .debug_info    0x00019b15       0x30 CMakeFiles/TMC2209.dir/startup_stm32h750xx.s.obj
+.debug_info     0x00000000    0x1a632
+ .debug_info    0x00000000      0xaed CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+ .debug_info    0x00000aed      0x116 CMakeFiles/TMC2209.dir/User/Kalman.c.obj
+ .debug_info    0x00000c03      0xbee CMakeFiles/TMC2209.dir/User/Zhangdatou.c.obj
+ .debug_info    0x000017f1      0xb88 CMakeFiles/TMC2209.dir/User/OLED.c.obj
+ .debug_info    0x00002379      0xbe2 CMakeFiles/TMC2209.dir/User/wit.c.obj
+ .debug_info    0x00002f5b     0x2b1c CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+ .debug_info    0x00005a77      0xa30 CMakeFiles/TMC2209.dir/Core/Src/gpio.c.obj
+ .debug_info    0x000064a7     0x1009 CMakeFiles/TMC2209.dir/Core/Src/i2c.c.obj
+ .debug_info    0x000074b0     0x175b CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
+ .debug_info    0x00008c0b      0x9f5 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
+ .debug_info    0x00009600      0x464 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+ .debug_info    0x00009a64     0x10b7 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .debug_info    0x0000ab1b      0xe6a CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+ .debug_info    0x0000b985     0x1225 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .debug_info    0x0000cbaa      0xc5a CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+ .debug_info    0x0000d804      0xc31 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+ .debug_info    0x0000e435     0x1012 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .debug_info    0x0000f447     0x1541 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .debug_info    0x00010988     0x22c9 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .debug_info    0x00012c51      0xd84 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
+ .debug_info    0x000139d5     0x4dd1 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+ .debug_info    0x000187a6     0x10aa CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
+ .debug_info    0x00019850      0xdb2 CMakeFiles/TMC2209.dir/Core/Src/system_stm32h7xx.c.obj
+ .debug_info    0x0001a602       0x30 CMakeFiles/TMC2209.dir/startup_stm32h750xx.s.obj
 
-.debug_abbrev   0x00000000     0x332a
- .debug_abbrev  0x00000000       0xb7 CMakeFiles/TMC2209.dir/User/Kalman.c.obj
- .debug_abbrev  0x000000b7      0x1ef CMakeFiles/TMC2209.dir/User/Zhangdatou.c.obj
- .debug_abbrev  0x000002a6      0x242 CMakeFiles/TMC2209.dir/User/OLED.c.obj
- .debug_abbrev  0x000004e8      0x208 CMakeFiles/TMC2209.dir/User/wit.c.obj
- .debug_abbrev  0x000006f0      0x592 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
- .debug_abbrev  0x00000c82      0x194 CMakeFiles/TMC2209.dir/Core/Src/gpio.c.obj
- .debug_abbrev  0x00000e16      0x24c CMakeFiles/TMC2209.dir/Core/Src/i2c.c.obj
- .debug_abbrev  0x00001062      0x24e CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
- .debug_abbrev  0x000012b0      0x1af CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
- .debug_abbrev  0x0000145f       0xdb CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_hal_msp.c.obj
- .debug_abbrev  0x0000153a      0x339 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
- .debug_abbrev  0x00001873      0x2c8 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
- .debug_abbrev  0x00001b3b      0x269 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
- .debug_abbrev  0x00001da4      0x205 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
- .debug_abbrev  0x00001fa9      0x248 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
- .debug_abbrev  0x000021f1      0x2a7 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
- .debug_abbrev  0x00002498      0x295 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
- .debug_abbrev  0x0000272d      0x25d CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
- .debug_abbrev  0x0000298a      0x1f5 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
- .debug_abbrev  0x00002b7f      0x350 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
- .debug_abbrev  0x00002ecf      0x2d2 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
- .debug_abbrev  0x000031a1      0x165 CMakeFiles/TMC2209.dir/Core/Src/system_stm32h7xx.c.obj
- .debug_abbrev  0x00003306       0x24 CMakeFiles/TMC2209.dir/startup_stm32h750xx.s.obj
+.debug_abbrev   0x00000000     0x339d
+ .debug_abbrev  0x00000000       0x73 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+ .debug_abbrev  0x00000073       0xb7 CMakeFiles/TMC2209.dir/User/Kalman.c.obj
+ .debug_abbrev  0x0000012a      0x1ef CMakeFiles/TMC2209.dir/User/Zhangdatou.c.obj
+ .debug_abbrev  0x00000319      0x242 CMakeFiles/TMC2209.dir/User/OLED.c.obj
+ .debug_abbrev  0x0000055b      0x208 CMakeFiles/TMC2209.dir/User/wit.c.obj
+ .debug_abbrev  0x00000763      0x592 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+ .debug_abbrev  0x00000cf5      0x194 CMakeFiles/TMC2209.dir/Core/Src/gpio.c.obj
+ .debug_abbrev  0x00000e89      0x24c CMakeFiles/TMC2209.dir/Core/Src/i2c.c.obj
+ .debug_abbrev  0x000010d5      0x24e CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
+ .debug_abbrev  0x00001323      0x1af CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
+ .debug_abbrev  0x000014d2       0xdb CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+ .debug_abbrev  0x000015ad      0x339 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .debug_abbrev  0x000018e6      0x2c8 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+ .debug_abbrev  0x00001bae      0x269 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .debug_abbrev  0x00001e17      0x205 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+ .debug_abbrev  0x0000201c      0x248 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+ .debug_abbrev  0x00002264      0x2a7 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .debug_abbrev  0x0000250b      0x295 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .debug_abbrev  0x000027a0      0x25d CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .debug_abbrev  0x000029fd      0x1f5 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
+ .debug_abbrev  0x00002bf2      0x350 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+ .debug_abbrev  0x00002f42      0x2d2 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
+ .debug_abbrev  0x00003214      0x165 CMakeFiles/TMC2209.dir/Core/Src/system_stm32h7xx.c.obj
+ .debug_abbrev  0x00003379       0x24 CMakeFiles/TMC2209.dir/startup_stm32h750xx.s.obj
 
-.debug_aranges  0x00000000     0x1160
+.debug_aranges  0x00000000     0x1178
  .debug_aranges
-                0x00000000       0x20 CMakeFiles/TMC2209.dir/User/Kalman.c.obj
+                0x00000000       0x18 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
  .debug_aranges
-                0x00000020       0x88 CMakeFiles/TMC2209.dir/User/Zhangdatou.c.obj
+                0x00000018       0x20 CMakeFiles/TMC2209.dir/User/Kalman.c.obj
  .debug_aranges
-                0x000000a8       0x98 CMakeFiles/TMC2209.dir/User/OLED.c.obj
+                0x00000038       0x88 CMakeFiles/TMC2209.dir/User/Zhangdatou.c.obj
  .debug_aranges
-                0x00000140       0x28 CMakeFiles/TMC2209.dir/User/wit.c.obj
+                0x000000c0       0x98 CMakeFiles/TMC2209.dir/User/OLED.c.obj
  .debug_aranges
-                0x00000168      0x198 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+                0x00000158       0x28 CMakeFiles/TMC2209.dir/User/wit.c.obj
  .debug_aranges
-                0x00000300       0x20 CMakeFiles/TMC2209.dir/Core/Src/gpio.c.obj
+                0x00000180      0x198 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
  .debug_aranges
-                0x00000320       0x30 CMakeFiles/TMC2209.dir/Core/Src/i2c.c.obj
+                0x00000318       0x20 CMakeFiles/TMC2209.dir/Core/Src/gpio.c.obj
  .debug_aranges
-                0x00000350       0x58 CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
+                0x00000338       0x30 CMakeFiles/TMC2209.dir/Core/Src/i2c.c.obj
  .debug_aranges
-                0x000003a8       0xa8 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
+                0x00000368       0x58 CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
  .debug_aranges
-                0x00000450       0x20 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+                0x000003c0       0xa8 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
  .debug_aranges
-                0x00000470      0x130 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+                0x00000468       0x20 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_hal_msp.c.obj
  .debug_aranges
-                0x000005a0       0x88 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+                0x00000488      0x130 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
  .debug_aranges
-                0x00000628       0xf8 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+                0x000005b8       0x88 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
  .debug_aranges
-                0x00000720       0x58 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+                0x00000640       0xf8 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
  .debug_aranges
-                0x00000778       0xa0 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+                0x00000738       0x58 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
  .debug_aranges
-                0x00000818      0x158 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+                0x00000790       0xa0 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
  .debug_aranges
-                0x00000970      0x198 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+                0x00000830      0x158 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
  .debug_aranges
-                0x00000b08      0x2a0 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+                0x00000988      0x198 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
  .debug_aranges
-                0x00000da8       0x48 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
+                0x00000b20      0x2a0 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
  .debug_aranges
-                0x00000df0      0x270 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+                0x00000dc0       0x48 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
  .debug_aranges
-                0x00001060       0xa8 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
+                0x00000e08      0x270 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
  .debug_aranges
-                0x00001108       0x30 CMakeFiles/TMC2209.dir/Core/Src/system_stm32h7xx.c.obj
+                0x00001078       0xa8 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
  .debug_aranges
-                0x00001138       0x28 CMakeFiles/TMC2209.dir/startup_stm32h750xx.s.obj
+                0x00001120       0x30 CMakeFiles/TMC2209.dir/Core/Src/system_stm32h7xx.c.obj
+ .debug_aranges
+                0x00001150       0x28 CMakeFiles/TMC2209.dir/startup_stm32h750xx.s.obj
+
+.debug_macro    0x00000000     0x3f8e
+ .debug_macro   0x00000000       0x11 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+ .debug_macro   0x00000011      0x13b CMakeFiles/TMC2209.dir/User/Kalman.c.obj
+ .debug_macro   0x0000014c       0x16 CMakeFiles/TMC2209.dir/User/Kalman.c.obj
+ .debug_macro   0x00000162       0x9e CMakeFiles/TMC2209.dir/User/Kalman.c.obj
+ .debug_macro   0x00000200      0x112 CMakeFiles/TMC2209.dir/User/Kalman.c.obj
+ .debug_macro   0x00000312       0x10 CMakeFiles/TMC2209.dir/User/Kalman.c.obj
+ .debug_macro   0x00000322       0x16 CMakeFiles/TMC2209.dir/User/Kalman.c.obj
+ .debug_macro   0x00000338       0x16 CMakeFiles/TMC2209.dir/User/Kalman.c.obj
+ .debug_macro   0x0000034e      0x170 CMakeFiles/TMC2209.dir/User/Kalman.c.obj
+ .debug_macro   0x000004be      0x2b9 CMakeFiles/TMC2209.dir/User/Zhangdatou.c.obj
+ .debug_macro   0x00000777      0x2b1 CMakeFiles/TMC2209.dir/User/OLED.c.obj
+ .debug_macro   0x00000a28       0x46 CMakeFiles/TMC2209.dir/User/OLED.c.obj
+ .debug_macro   0x00000a6e       0x10 CMakeFiles/TMC2209.dir/User/OLED.c.obj
+ .debug_macro   0x00000a7e      0x2b3 CMakeFiles/TMC2209.dir/User/wit.c.obj
+ .debug_macro   0x00000d31      0x3fc CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+ .debug_macro   0x0000112d       0x16 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+ .debug_macro   0x00001143       0x16 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+ .debug_macro   0x00001159       0x29 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+ .debug_macro   0x00001182       0x22 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+ .debug_macro   0x000011a4       0x1c CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+ .debug_macro   0x000011c0       0x1c CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+ .debug_macro   0x000011dc       0x16 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+ .debug_macro   0x000011f2       0x4c CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+ .debug_macro   0x0000123e      0x29f CMakeFiles/TMC2209.dir/Core/Src/gpio.c.obj
+ .debug_macro   0x000014dd      0x29f CMakeFiles/TMC2209.dir/Core/Src/i2c.c.obj
+ .debug_macro   0x0000177c      0x29f CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
+ .debug_macro   0x00001a1b      0x29f CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
+ .debug_macro   0x00001cba      0x295 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+ .debug_macro   0x00001f4f      0x285 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .debug_macro   0x000021d4      0x2a9 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+ .debug_macro   0x0000247d      0x2a3 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .debug_macro   0x00002720      0x28c CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+ .debug_macro   0x000029ac      0x2d9 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+ .debug_macro   0x00002c85      0x2be CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .debug_macro   0x00002f43      0x2af CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .debug_macro   0x000031f2      0x351 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .debug_macro   0x00003543      0x285 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
+ .debug_macro   0x000037c8      0x2b0 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+ .debug_macro   0x00003a78      0x291 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
+ .debug_macro   0x00003d09      0x285 CMakeFiles/TMC2209.dir/Core/Src/system_stm32h7xx.c.obj
+
+.debug_line     0x00000000    0x17dfd
+ .debug_line    0x00000000       0x69 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+ .debug_line    0x00000069      0x327 CMakeFiles/TMC2209.dir/User/Kalman.c.obj
+ .debug_line    0x00000390      0x8c4 CMakeFiles/TMC2209.dir/User/Zhangdatou.c.obj
+ .debug_line    0x00000c54      0xb07 CMakeFiles/TMC2209.dir/User/OLED.c.obj
+ .debug_line    0x0000175b      0x897 CMakeFiles/TMC2209.dir/User/wit.c.obj
+ .debug_line    0x00001ff2     0x185f CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+ .debug_line    0x00003851      0x758 CMakeFiles/TMC2209.dir/Core/Src/gpio.c.obj
+ .debug_line    0x00003fa9      0x79a CMakeFiles/TMC2209.dir/Core/Src/i2c.c.obj
+ .debug_line    0x00004743      0xb3b CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
+ .debug_line    0x0000527e      0x88b CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
+ .debug_line    0x00005b09      0x6f7 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+ .debug_line    0x00006200      0xcba CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .debug_line    0x00006eba     0x1377 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+ .debug_line    0x00008231     0x1c83 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .debug_line    0x00009eb4      0xb59 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+ .debug_line    0x0000aa0d     0x2651 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+ .debug_line    0x0000d05e      0xe54 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .debug_line    0x0000deb2      0xcd0 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .debug_line    0x0000eb82     0x3a47 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .debug_line    0x000125c9      0x85e CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
+ .debug_line    0x00012e27     0x39f1 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+ .debug_line    0x00016818      0xc73 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
+ .debug_line    0x0001748b      0x8f7 CMakeFiles/TMC2209.dir/Core/Src/system_stm32h7xx.c.obj
+ .debug_line    0x00017d82       0x7b CMakeFiles/TMC2209.dir/startup_stm32h750xx.s.obj
+
+.debug_str      0x00000000   0x15c70b
+ .debug_str     0x00000000   0x15c70b CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                               0x3386 (size before relaxing)
+ .debug_str     0x0015c70b     0x740c CMakeFiles/TMC2209.dir/User/Kalman.c.obj
+ .debug_str     0x0015c70b   0x1549b1 CMakeFiles/TMC2209.dir/User/Zhangdatou.c.obj
+ .debug_str     0x0015c70b   0x1548c3 CMakeFiles/TMC2209.dir/User/OLED.c.obj
+ .debug_str     0x0015c70b   0x15484c CMakeFiles/TMC2209.dir/User/wit.c.obj
+ .debug_str     0x0015c70b   0x156f40 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+ .debug_str     0x0015c70b   0x154a96 CMakeFiles/TMC2209.dir/Core/Src/gpio.c.obj
+ .debug_str     0x0015c70b   0x154bfd CMakeFiles/TMC2209.dir/Core/Src/i2c.c.obj
+ .debug_str     0x0015c70b   0x1555dc CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
+ .debug_str     0x0015c70b   0x154789 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
+ .debug_str     0x0015c70b   0x15416d CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+ .debug_str     0x0015c70b   0x154dba CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .debug_str     0x0015c70b   0x1547f5 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+ .debug_str     0x0015c70b   0x154cd6 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .debug_str     0x0015c70b   0x154411 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+ .debug_str     0x0015c70b   0x154b94 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+ .debug_str     0x0015c70b   0x1548d2 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .debug_str     0x0015c70b   0x15537f CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .debug_str     0x0015c70b   0x1554b2 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .debug_str     0x0015c70b   0x154856 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
+ .debug_str     0x0015c70b   0x1556a8 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+ .debug_str     0x0015c70b   0x154a11 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
+ .debug_str     0x0015c70b   0x154499 CMakeFiles/TMC2209.dir/Core/Src/system_stm32h7xx.c.obj
+ .debug_str     0x0015c70b       0x9e CMakeFiles/TMC2209.dir/startup_stm32h750xx.s.obj
+
+.comment        0x00000000       0x45
+ .comment       0x00000000       0x45 CMakeFiles/TMC2209.dir/Core/Src/contour_paths.c.obj
+                                 0x46 (size before relaxing)
+ .comment       0x00000045       0x46 CMakeFiles/TMC2209.dir/User/Kalman.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/TMC2209.dir/User/Zhangdatou.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/TMC2209.dir/User/OLED.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/TMC2209.dir/User/wit.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/TMC2209.dir/Core/Src/gpio.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/TMC2209.dir/Core/Src/i2c.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/TMC2209.dir/Core/Src/system_stm32h7xx.c.obj
 
 .debug_rnglists
                 0x00000000      0xd8c
@@ -7292,123 +7514,6 @@ LOAD E:/Program Files/Arm GNU Toolchain arm-none-eabi/13.3 rel1/bin/../lib/gcc/a
                 0x00000d52       0x21 CMakeFiles/TMC2209.dir/Core/Src/system_stm32h7xx.c.obj
  .debug_rnglists
                 0x00000d73       0x19 CMakeFiles/TMC2209.dir/startup_stm32h750xx.s.obj
-
-.debug_macro    0x00000000     0x3f7d
- .debug_macro   0x00000000      0x13b CMakeFiles/TMC2209.dir/User/Kalman.c.obj
- .debug_macro   0x0000013b       0x16 CMakeFiles/TMC2209.dir/User/Kalman.c.obj
- .debug_macro   0x00000151       0x9e CMakeFiles/TMC2209.dir/User/Kalman.c.obj
- .debug_macro   0x000001ef      0x112 CMakeFiles/TMC2209.dir/User/Kalman.c.obj
- .debug_macro   0x00000301       0x10 CMakeFiles/TMC2209.dir/User/Kalman.c.obj
- .debug_macro   0x00000311       0x16 CMakeFiles/TMC2209.dir/User/Kalman.c.obj
- .debug_macro   0x00000327       0x16 CMakeFiles/TMC2209.dir/User/Kalman.c.obj
- .debug_macro   0x0000033d      0x170 CMakeFiles/TMC2209.dir/User/Kalman.c.obj
- .debug_macro   0x000004ad      0x2b9 CMakeFiles/TMC2209.dir/User/Zhangdatou.c.obj
- .debug_macro   0x00000766      0x2b1 CMakeFiles/TMC2209.dir/User/OLED.c.obj
- .debug_macro   0x00000a17       0x46 CMakeFiles/TMC2209.dir/User/OLED.c.obj
- .debug_macro   0x00000a5d       0x10 CMakeFiles/TMC2209.dir/User/OLED.c.obj
- .debug_macro   0x00000a6d      0x2b3 CMakeFiles/TMC2209.dir/User/wit.c.obj
- .debug_macro   0x00000d20      0x3fc CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
- .debug_macro   0x0000111c       0x16 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
- .debug_macro   0x00001132       0x16 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
- .debug_macro   0x00001148       0x29 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
- .debug_macro   0x00001171       0x22 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
- .debug_macro   0x00001193       0x1c CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
- .debug_macro   0x000011af       0x1c CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
- .debug_macro   0x000011cb       0x16 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
- .debug_macro   0x000011e1       0x4c CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
- .debug_macro   0x0000122d      0x29f CMakeFiles/TMC2209.dir/Core/Src/gpio.c.obj
- .debug_macro   0x000014cc      0x29f CMakeFiles/TMC2209.dir/Core/Src/i2c.c.obj
- .debug_macro   0x0000176b      0x29f CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
- .debug_macro   0x00001a0a      0x29f CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
- .debug_macro   0x00001ca9      0x295 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_hal_msp.c.obj
- .debug_macro   0x00001f3e      0x285 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
- .debug_macro   0x000021c3      0x2a9 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
- .debug_macro   0x0000246c      0x2a3 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
- .debug_macro   0x0000270f      0x28c CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
- .debug_macro   0x0000299b      0x2d9 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
- .debug_macro   0x00002c74      0x2be CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
- .debug_macro   0x00002f32      0x2af CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
- .debug_macro   0x000031e1      0x351 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
- .debug_macro   0x00003532      0x285 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
- .debug_macro   0x000037b7      0x2b0 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
- .debug_macro   0x00003a67      0x291 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
- .debug_macro   0x00003cf8      0x285 CMakeFiles/TMC2209.dir/Core/Src/system_stm32h7xx.c.obj
-
-.debug_line     0x00000000    0x17d89
- .debug_line    0x00000000      0x327 CMakeFiles/TMC2209.dir/User/Kalman.c.obj
- .debug_line    0x00000327      0x8c4 CMakeFiles/TMC2209.dir/User/Zhangdatou.c.obj
- .debug_line    0x00000beb      0xb07 CMakeFiles/TMC2209.dir/User/OLED.c.obj
- .debug_line    0x000016f2      0x897 CMakeFiles/TMC2209.dir/User/wit.c.obj
- .debug_line    0x00001f89     0x1854 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
- .debug_line    0x000037dd      0x758 CMakeFiles/TMC2209.dir/Core/Src/gpio.c.obj
- .debug_line    0x00003f35      0x79a CMakeFiles/TMC2209.dir/Core/Src/i2c.c.obj
- .debug_line    0x000046cf      0xb3b CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
- .debug_line    0x0000520a      0x88b CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
- .debug_line    0x00005a95      0x6f7 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_hal_msp.c.obj
- .debug_line    0x0000618c      0xcba CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
- .debug_line    0x00006e46     0x1377 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
- .debug_line    0x000081bd     0x1c83 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
- .debug_line    0x00009e40      0xb59 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
- .debug_line    0x0000a999     0x2651 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
- .debug_line    0x0000cfea      0xe54 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
- .debug_line    0x0000de3e      0xcd0 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
- .debug_line    0x0000eb0e     0x3a47 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
- .debug_line    0x00012555      0x85e CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
- .debug_line    0x00012db3     0x39f1 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
- .debug_line    0x000167a4      0xc73 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
- .debug_line    0x00017417      0x8f7 CMakeFiles/TMC2209.dir/Core/Src/system_stm32h7xx.c.obj
- .debug_line    0x00017d0e       0x7b CMakeFiles/TMC2209.dir/startup_stm32h750xx.s.obj
-
-.debug_str      0x00000000   0x15c274
- .debug_str     0x00000000   0x15c274 CMakeFiles/TMC2209.dir/User/Kalman.c.obj
-                               0x740c (size before relaxing)
- .debug_str     0x0015c274   0x1549b1 CMakeFiles/TMC2209.dir/User/Zhangdatou.c.obj
- .debug_str     0x0015c274   0x1548c3 CMakeFiles/TMC2209.dir/User/OLED.c.obj
- .debug_str     0x0015c274   0x15484c CMakeFiles/TMC2209.dir/User/wit.c.obj
- .debug_str     0x0015c274   0x156f40 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
- .debug_str     0x0015c274   0x154a96 CMakeFiles/TMC2209.dir/Core/Src/gpio.c.obj
- .debug_str     0x0015c274   0x154bfd CMakeFiles/TMC2209.dir/Core/Src/i2c.c.obj
- .debug_str     0x0015c274   0x1555dc CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
- .debug_str     0x0015c274   0x154789 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
- .debug_str     0x0015c274   0x15416d CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_hal_msp.c.obj
- .debug_str     0x0015c274   0x154dba CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
- .debug_str     0x0015c274   0x1547f5 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
- .debug_str     0x0015c274   0x154cd6 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
- .debug_str     0x0015c274   0x154411 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
- .debug_str     0x0015c274   0x154b94 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
- .debug_str     0x0015c274   0x1548d2 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
- .debug_str     0x0015c274   0x15537f CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
- .debug_str     0x0015c274   0x1554b2 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
- .debug_str     0x0015c274   0x154856 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
- .debug_str     0x0015c274   0x1556a8 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
- .debug_str     0x0015c274   0x154a11 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
- .debug_str     0x0015c274   0x154499 CMakeFiles/TMC2209.dir/Core/Src/system_stm32h7xx.c.obj
- .debug_str     0x0015c274       0x9e CMakeFiles/TMC2209.dir/startup_stm32h750xx.s.obj
-
-.comment        0x00000000       0x45
- .comment       0x00000000       0x45 CMakeFiles/TMC2209.dir/User/Kalman.c.obj
-                                 0x46 (size before relaxing)
- .comment       0x00000045       0x46 CMakeFiles/TMC2209.dir/User/Zhangdatou.c.obj
- .comment       0x00000045       0x46 CMakeFiles/TMC2209.dir/User/OLED.c.obj
- .comment       0x00000045       0x46 CMakeFiles/TMC2209.dir/User/wit.c.obj
- .comment       0x00000045       0x46 CMakeFiles/TMC2209.dir/Core/Src/main.c.obj
- .comment       0x00000045       0x46 CMakeFiles/TMC2209.dir/Core/Src/gpio.c.obj
- .comment       0x00000045       0x46 CMakeFiles/TMC2209.dir/Core/Src/i2c.c.obj
- .comment       0x00000045       0x46 CMakeFiles/TMC2209.dir/Core/Src/usart.c.obj
- .comment       0x00000045       0x46 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_it.c.obj
- .comment       0x00000045       0x46 CMakeFiles/TMC2209.dir/Core/Src/stm32h7xx_hal_msp.c.obj
- .comment       0x00000045       0x46 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
- .comment       0x00000045       0x46 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
- .comment       0x00000045       0x46 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
- .comment       0x00000045       0x46 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
- .comment       0x00000045       0x46 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
- .comment       0x00000045       0x46 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
- .comment       0x00000045       0x46 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
- .comment       0x00000045       0x46 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
- .comment       0x00000045       0x46 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
- .comment       0x00000045       0x46 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
- .comment       0x00000045       0x46 CMakeFiles/TMC2209.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
- .comment       0x00000045       0x46 CMakeFiles/TMC2209.dir/Core/Src/system_stm32h7xx.c.obj
 
 .debug_line_str
                 0x00000000      0x157
