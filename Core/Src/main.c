@@ -286,7 +286,7 @@ uint32_t getMicros();
  */
 float pid_calculate(pid_handler *pid,float err)
 {
-	if(fabs(pid->previous - err)>pid->err_limit)
+	if(fabs(err)>pid->err_limit)
   {
     return pid->OUT;
   }
@@ -842,8 +842,7 @@ void maixcam_RX_finish()  //maixcam数据包接收完成回调
   ridus = *(int*)&Maixcam_RX_fifo[16];
   // exc = *(int*)&Maixcam_RX_fifo[8];
   // eyc = *(int*)&Maixcam_RX_fifo[12];
-  nxc = KalmanFilter(&kfpVarx,nxc1);
-  nyc = KalmanFilter(&kfpVary,nyc1);
+
 
   // kalman_x_redata = kalman_calcu_x(nxc1);
   // kalman_y_redata = kalman_calcu_y(nyc1);
@@ -997,7 +996,7 @@ pid_handler pidx = //x位置环
   .out_limit = {-10000,10000},
   .inte_limit = {-1000,1000},
   .d_state=0,     //外部微分
-  .err_limit = 100,
+  .err_limit = 50,
   .acc_Feed =0    //外部前馈
 };
 
@@ -1010,7 +1009,7 @@ pid_handler pidx1 = //x位置环,近段
   .out_limit = {-10000,10000},
   .inte_limit = {-1000,1000},
   .d_state=0,     //外部微分
-  .err_limit = 100,
+  .err_limit = 50,
   .acc_Feed =0    //外部前馈
 };
 
@@ -1026,7 +1025,7 @@ pid_handler pidy = //y位置环
   .out_limit = {-10000,10000},
   .inte_limit = {-5000,5000},
   .d_state=0,
-  .err_limit = 100,
+  .err_limit = 50,
   .acc_Feed =0
 };
 
@@ -1040,7 +1039,7 @@ pid_handler pidAx = //角度环
   .out_limit = {-10000,10000},
   .inte_limit = {-5000,5000},
   .d_state =1,
-  .err_limit = 100,
+  .err_limit = 50,
   .acc_Feed =0
 };
 
@@ -1096,6 +1095,7 @@ float therr=0;
 
 
 uint64_t tick_angle_buchang=0;
+uint64_t tick_kalman=0;
 
 uint8_t circle_state=0;
 
@@ -1254,6 +1254,14 @@ void track_pid_run()    //追踪pid运行
   //pidx.de = wit_data.gyro[2];
   
   //pidx.acc_Feed = (facc-init_acc_pid)*acc_pul;   //加速度前馈补偿
+
+  if((getMicros()-tick_kalman)>20000)
+  {
+    nxc = KalmanFilter(&kfpVarx,nxc1);
+    nyc = KalmanFilter(&kfpVary,nyc1);
+    tick_kalman = getMicros();
+  }
+
 
 
   enconter_to_angle();
@@ -1622,7 +1630,7 @@ case 0:
     {
       laser_enable(1);
     }
-    if(nxc!=0&&nyc!=0)   //追踪控制
+    if(nxc1!=0&&nyc1!=0)   //追踪控制
     {
       //draw_circle_1();
     track_pid_run();
