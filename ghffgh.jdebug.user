@@ -1,7 +1,7 @@
 
 
 
-Breakpoint=C:/Users/16664/Desktop/now/TMC2209 - 17/TMC2209/Core/Src/main.c:183:24, State=BP_STATE_DISABLED
+Breakpoint=C:/Users/16664/Desktop/now/TMC2209 - 17/TMC2209/Core/Src/main.c:235:1, State=BP_STATE_DISABLED
 GraphedExpression="nxc", DisplayFormat=DISPLAY_FORMAT_DEC, Color=#e56a6f
 GraphedExpression="nyc", DisplayFormat=DISPLAY_FORMAT_DEC, Color=#35792b, Show=0
 GraphedExpression="exc", Color=#769dda, Show=0
@@ -24,14 +24,14 @@ GraphedExpression="ridus", Color=#82375f
 GraphedExpression="theta1", Color=#fff959, Show=0
 GraphedExpression="eycir", Color=#e56a6f, Show=0
 OpenDocument="wit.c", FilePath="C:/Users/16664/Desktop/now/TMC2209 - 17/TMC2209/User/wit.c", Line=27
-OpenDocument="main.c", FilePath="C:/Users/16664/Desktop/now/TMC2209 - 17/TMC2209/Core/Src/main.c", Line=1499
+OpenDocument="main.c", FilePath="C:/Users/16664/Desktop/now/TMC2209 - 17/TMC2209/Core/Src/main.c", Line=1494
 OpenDocument="stm32h7xx_hal.c", FilePath="C:/Users/16664/Desktop/now/TMC2209 - 17/TMC2209/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c", Line=326
 OpenDocument="startup_stm32h750xx.s", FilePath="C:/Users/16664/Desktop/now/TMC2209 - 17/TMC2209/startup_stm32h750xx.s", Line=47
 OpenDocument="stm32h7xx_it.c", FilePath="C:/Users/16664/Desktop/now/TMC2209 - 17/TMC2209/Core/Src/stm32h7xx_it.c", Line=78
 OpenToolbar="Debug", Floating=0, x=0, y=0
 OpenWindow="Source Files", DockArea=LEFT, x=0, y=0, w=362, h=924, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
-OpenWindow="Global Data", DockArea=RIGHT, x=0, y=0, w=384, h=354, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
-OpenWindow="Local Data", DockArea=RIGHT, x=0, y=1, w=384, h=569, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Global Data", DockArea=RIGHT, x=0, y=0, w=384, h=366, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Local Data", DockArea=RIGHT, x=0, y=1, w=384, h=557, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
 OpenWindow="Watched Data 1", DockArea=FLOATING, x=1216, y=651, w=970, h=636, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
 OpenWindow="Data Sampling", DockArea=BOTTOM, x=0, y=0, w=2560, h=360, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, VisibleTab=0, UniformSampleSpacing=0
 SmartViewPlugin="", Page="", Toolbar="Hidden", Window="SmartView 1"
@@ -41,7 +41,7 @@ TableHeader="Source Files", SortCol="File", SortOrder="ASCENDING", VisibleCols=[
 TableHeader="Data Sampling Table", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time";" nxc";" nyc";" exc";" eyc";" excir";" nspeedx";" nspeedy";" nxc1";" nyc1";" wit_data.yaw";" wit_data.gyro[2]";" pidx.de";" therr";" wit_data.accel[0]";" wit_data.accel[1]";" wit_data.accel[2]";" facc";" enconter";" ridus";" theta1";" eycir"], ColWidths=[100;100;100;100;100;100;100;100;100;100;100;100;100;100;100;100;100;100;100;100;100;100;100]
 TableHeader="Data Sampling Setup", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Expression";"Type";"Value";"Min";"Max";"Average";"# Changes";"Min. Change";"Max. Change"], ColWidths=[198;100;100;126;134;100;100;107;1574]
 TableHeader="Power Sampling", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time";"Ch 0"], ColWidths=[100;100;100]
-TableHeader="Watched Data 1", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Expression";"Value";"Location";"Refresh"], ColWidths=[100;412;100;337]
+TableHeader="Watched Data 1", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Expression";"Value";"Location";"Refresh"], ColWidths=[100;412;100;358]
 TableHeader="RegisterSelectionDialog", SortCol="None", SortOrder="ASCENDING", VisibleCols=[], ColWidths=[]
 TableHeader="TargetExceptionDialog", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Address";"Description"], ColWidths=[200;100;100;372]
 WatchedExpression="pidx", Window=Watched Data 1

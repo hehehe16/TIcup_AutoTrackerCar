@@ -286,10 +286,10 @@ uint32_t getMicros();
  */
 float pid_calculate(pid_handler *pid,float err)
 {
-	if(fabs(err)>pid->err_limit)
-  {
-    return pid->OUT;
-  }
+	// if(fabs(err)>pid->err_limit)
+  // {
+  //   return pid->OUT;
+  // }
 
   float POUT = err*(pid->P);
   uint32_t now_time = getMicros();
@@ -973,7 +973,7 @@ int exc=210;  //期望x坐标
 int eyc=225;  //期望y坐标
 
 int oexc=195;//开环期望坐标
-int oeyc=240;  
+int oeyc=235;  
 
 
 
@@ -996,7 +996,7 @@ pid_handler pidx = //x位置环
   .out_limit = {-10000,10000},
   .inte_limit = {-1000,1000},
   .d_state=0,     //外部微分
-  .err_limit = 50,
+  .err_limit = 30,
   .acc_Feed =0    //外部前馈
 };
 
@@ -1009,7 +1009,7 @@ pid_handler pidx1 = //x位置环,近段
   .out_limit = {-10000,10000},
   .inte_limit = {-1000,1000},
   .d_state=0,     //外部微分
-  .err_limit = 50,
+  .err_limit = 30,
   .acc_Feed =0    //外部前馈
 };
 
@@ -1025,7 +1025,7 @@ pid_handler pidy = //y位置环
   .out_limit = {-10000,10000},
   .inte_limit = {-5000,5000},
   .d_state=0,
-  .err_limit = 50,
+  .err_limit = 30,
   .acc_Feed =0
 };
 
@@ -1039,7 +1039,7 @@ pid_handler pidAx = //角度环
   .out_limit = {-10000,10000},
   .inte_limit = {-5000,5000},
   .d_state =1,
-  .err_limit = 50,
+  .err_limit = 30,
   .acc_Feed =0
 };
 
@@ -1444,7 +1444,7 @@ void right_scan()  //向右扫描
   }
   step_motor2(1);
   delay_us(120);
-  if((nxc!=0&&nyc!=0)&&(abs(nxc-oexc)<50)&&(abs(nyc-oeyc)<70))
+  if((nxc1!=0&&nyc1!=0)&&(abs(nxc1-oexc)<50)&&(abs(nyc1-oeyc)<70))
   {
     HAL_Delay(200);
     control_state = 1;
@@ -1469,7 +1469,7 @@ void left_scan()  //向左扫描
   }
   step_motor2(0);
   delay_us(120);           //120us生成一次脉冲0
-  if((nxc!=0&&nyc!=0)&&(abs(nxc-oexc)<50)&&(abs(nyc-oeyc)<70))    //检测目标
+  if((nxc1!=0&&nyc1!=0)&&(abs(nxc1-oexc)<50)&&(abs(nyc1-oeyc)<70))    //检测目标
   {
     HAL_Delay(200);
     control_state = 1;
@@ -1574,7 +1574,7 @@ int main(void)
 
   OLED_Init();
   OLED_FullyClear();
-init_tanh_table();
+//init_tanh_table();
 
   //zhang_get_y_angle();
   HAL_Delay(100);
@@ -1626,7 +1626,7 @@ case 0:
 
   case 1:
 
-    if((HAL_GetTick()-laser_ms_tick)>1000)     //设置laser_ms_tick后,大于1s后自动开启激光
+    if((HAL_GetTick()-laser_ms_tick)>500)     //设置laser_ms_tick后,大于1s后自动开启激光
     {
       laser_enable(1);
     }
